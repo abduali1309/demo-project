@@ -13,13 +13,13 @@ dayjs.extend(isSameOrBefore);
 
 
 // --- CONFIGURE THESE ---
-const DRIVER_UID     = '2a64184a-23cc-4f0f-9dfa-e31f481e2d65';
+const DRIVER_UID     = 'e7c762fd-13e8-4c92-90c8-ef38866cb053';
 const COMPANY_UID    = '42b94f1a-a395-4f7f-8913-a3c88e343292';
-const AUTH_TOKEN     = 'rb5xEMz72n0PQQkDdGEtDpzAcKXTp5GnTFFFVlVrCkA1l6MnlLvOOt25mA596YBG';
+const AUTH_TOKEN     = 'OK4ULC5UgEpyWKtBubMPvE61IvZ4tFzNnBAmL7FbgLPLDVhFzrc49BBS1GJvuvXQ';
 const BASE_URL       = 'https://ftest.tteld.com/api/dashboards';
-const START_DATE     = '2026-05-12'; // YYYY-MM-DD
-const END_DATE       = '2026-05-13';   // YYYY-MM-DD
-const DAY_ANCHOR_HOUR = 4; // change to 0 for midnight UTC
+const START_DATE     = '2026-03-03'; // YYYY-MM-DD
+const END_DATE       = '2026-03-05';   // YYYY-MM-DD
+const DAY_ANCHOR_HOUR = 5; // change to 0 for midnight UTC
 
 
 const COMPANY_NAME = 'Reliable Trucking Partner 2 Inc';
@@ -30,7 +30,7 @@ const VEHICLE_ID = 43905;
 const VEHICLE_ID_STRING = "7777"
 
 
-const OUT_DIR = path.join(__dirname, 'output');
+const OUT_DIR = path.join(__dirname, 'output/');
 if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR);
 
 const api = axios.create({
