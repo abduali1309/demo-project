@@ -1,0 +1,264 @@
+{
+  "dataHash": "d9e0c3d6dc1f9457c3cb4c0968f49441",
+  "events": [
+    {
+      "startTimeSeconds": 0,
+      "eventType": "DutyOff",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 6283,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 7545,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 35604,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 53433,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 54442,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 55489,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 56005,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 57358,
+      "eventType": "DutyOff",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 59609,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 60483,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 60667,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 68544,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 68794,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 69007,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 69572,
+      "eventType": "DutyOff",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 70947,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 71376,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 71814,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 78194,
+      "eventType": "DutyOff",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 79063,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    }
+  ],
+  "form": {
+    "companyName": "Reliable Trucking Partner 2 Inc",
+    "companyAddress": "799 North Court St Suite-7 Medina, OH 44256",
+    "homeTerminalAddress": "",
+    "fromAddress": "",
+    "toAddress": "",
+    "distance": null,
+    "usdot": "3395902",
+    "notes": "",
+    "coDriverId": null,
+    "vehicles": [
+      {
+        "id": 43905,
+        "vehicleId": "7777",
+        "odometers": [
+          {
+            "start": 0,
+            "end": 0
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "shippingDocuments": []
+  },
+  "maxTimeOffset": -1,
+  "reassignEvents": [],
+  "suggestionRequestId": "17d4445e-aae7-4114-9603-8cc2489bd1dd"
+}

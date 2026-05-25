@@ -1,0 +1,3142 @@
+{
+  "meta": {
+    "companyId": 4474,
+    "fromDate": "01-05-2026",
+    "toDate": "20-05-2026",
+    "vehiclesCount": 180,
+    "checkedCount": 180,
+    "writtenCount": 61,
+    "failedCount": 0,
+    "vehiclesApiBase": "https://addmin-api.evoeld.com",
+    "reportApiBase": "https://support-api.evoeld.com",
+    "reportPath": "/test/report-calcuate/"
+  },
+  "trucks": [
+    {
+      "vehicleId": 64591,
+      "truckNumber": "2911",
+      "vin": "1XKYD49X6NJ102990",
+      "uid": "4b2184f8-9b4c-4830-b852-89e6ed34e98a",
+      "hasDifference": false,
+      "iftaTotals": {
+        "NV": 102,
+        "AZ": 29,
+        "UT": 302,
+        "CO": 520,
+        "NE": 9
+      },
+      "movementTotals": {
+        "NV": 102,
+        "AZ": 29,
+        "UT": 302,
+        "CO": 520,
+        "NE": 9
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 962,
+        "movementTotalMiles": 962,
+        "iftaJumpTotal": 120,
+        "movementJumpTotal": 120,
+        "iftaPlusJumpTotal": 1082
+      }
+    },
+    {
+      "vehicleId": 64480,
+      "truckNumber": "105",
+      "vin": "3HSDZTZRXLN835598",
+      "uid": "3de8b80b-4811-4883-a2a9-99631fb18ac3",
+      "hasDifference": false,
+      "iftaTotals": {
+        "GA": 780,
+        "FL": 1342
+      },
+      "movementTotals": {
+        "GA": 780,
+        "FL": 1342
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 2122,
+        "movementTotalMiles": 2122,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 2122
+      }
+    },
+    {
+      "vehicleId": 64457,
+      "truckNumber": "11",
+      "vin": "3AKJHHDR6LSLK2615",
+      "uid": "d6265538-f3e4-4c2a-a00b-fac0f574893f",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IL": 51,
+        "IN": 159,
+        "OH": 237,
+        "PA": 773,
+        "NJ": 410,
+        "NY": 373,
+        "CT": 648,
+        "MA": 319,
+        "DE": 61,
+        "MD": 296,
+        "VA": 408,
+        "NC": 363,
+        "SC": 314
+      },
+      "movementTotals": {
+        "IL": 51,
+        "IN": 159,
+        "OH": 237,
+        "PA": 773,
+        "NY": 373,
+        "CT": 648,
+        "MA": 319,
+        "NJ": 410,
+        "DE": 61,
+        "MD": 296,
+        "VA": 408,
+        "NC": 363,
+        "SC": 314
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 4412,
+        "movementTotalMiles": 4412,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 4412
+      }
+    },
+    {
+      "vehicleId": 64432,
+      "truckNumber": "008",
+      "vin": "3AKJHHDR6NSMF3946",
+      "uid": "52ae5da9-75e1-420b-adfc-d31569038116",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IL": 724,
+        "WI": 194,
+        "IN": 471,
+        "KY": 383,
+        "TN": 520,
+        "GA": 1014,
+        "MO": 246,
+        "KS": 415,
+        "CO": 391,
+        "NE": 350,
+        "IA": 353,
+        "FL": 132
+      },
+      "movementTotals": {
+        "IL": 724,
+        "WI": 194,
+        "IN": 471,
+        "KY": 383,
+        "TN": 520,
+        "GA": 1014,
+        "MO": 246,
+        "KS": 415,
+        "CO": 391,
+        "NE": 350,
+        "IA": 353,
+        "FL": 132
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5193,
+        "movementTotalMiles": 5193,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5193
+      }
+    },
+    {
+      "vehicleId": 64343,
+      "truckNumber": "2140",
+      "vin": "3AKJHHDR6LSLN9325",
+      "uid": "25b68bb0-befb-430c-bf7a-7c98e4e079b4",
+      "hasDifference": false,
+      "iftaTotals": {
+        "FL": 692,
+        "GA": 618,
+        "SC": 488,
+        "NC": 462,
+        "TN": 122,
+        "KY": 234,
+        "IN": 435,
+        "IL": 156,
+        "OH": 259,
+        "PA": 664,
+        "MD": 151,
+        "VA": 426
+      },
+      "movementTotals": {
+        "FL": 692,
+        "GA": 618,
+        "SC": 488,
+        "NC": 462,
+        "TN": 122,
+        "KY": 234,
+        "IN": 435,
+        "IL": 156,
+        "OH": 259,
+        "PA": 664,
+        "MD": 151,
+        "VA": 426
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 4707,
+        "movementTotalMiles": 4707,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 4707
+      }
+    },
+    {
+      "vehicleId": 64203,
+      "truckNumber": "310",
+      "vin": "1XKYAP8X3GJ131779",
+      "uid": "0fe35714-7c61-4ca9-ace4-5a35096fde3d",
+      "hasDifference": true,
+      "iftaTotals": {
+        "IL": 494,
+        "WI": 38,
+        "IN": 405,
+        "OH": 750,
+        "WV": 348,
+        "VA": 235,
+        "NC": 462,
+        "SC": 180,
+        "GA": 298,
+        "TN": 188,
+        "KY": 93,
+        "MO": 510,
+        "KS": 867,
+        "CO": 463,
+        "MD": 153,
+        "DE": 23,
+        "PA": 708,
+        "NJ": 141,
+        "UNKNOWN": 3,
+        "NY": 205
+      },
+      "movementTotals": {
+        "IL": 494,
+        "WI": 38,
+        "IN": 405,
+        "OH": 750,
+        "WV": 348,
+        "VA": 235,
+        "NC": 462,
+        "SC": 180,
+        "GA": 298,
+        "TN": 188,
+        "KY": 93,
+        "MO": 510,
+        "KS": 867,
+        "CO": 463,
+        "MD": 153,
+        "DE": 23,
+        "PA": 708,
+        "NJ": 144,
+        "NY": 205
+      },
+      "differences": [
+        {
+          "state": "NJ",
+          "iftaMiles": 141,
+          "movementMiles": 144,
+          "difference": -3
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 3,
+          "movementMiles": 0,
+          "difference": 3
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 6564,
+        "movementTotalMiles": 6564,
+        "iftaJumpTotal": 201,
+        "movementJumpTotal": 201,
+        "iftaPlusJumpTotal": 6765
+      }
+    },
+    {
+      "vehicleId": 64132,
+      "truckNumber": "73149",
+      "vin": "3AKJHHFGXLSLS0720",
+      "uid": "602683ab-b026-4329-bff5-fd33429dbe1f",
+      "hasDifference": true,
+      "iftaTotals": {
+        "FL": 3984,
+        "GA": 2722,
+        "SC": 463,
+        "NC": 371,
+        "VA": 399,
+        "MD": 152,
+        "UNKNOWN": 27
+      },
+      "movementTotals": {
+        "FL": 3984,
+        "GA": 2722,
+        "SC": 463,
+        "NC": 371,
+        "VA": 399,
+        "MD": 179
+      },
+      "differences": [
+        {
+          "state": "MD",
+          "iftaMiles": 152,
+          "movementMiles": 179,
+          "difference": -27
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 27,
+          "movementMiles": 0,
+          "difference": 27
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8118,
+        "movementTotalMiles": 8118,
+        "iftaJumpTotal": 163,
+        "movementJumpTotal": 163,
+        "iftaPlusJumpTotal": 8281
+      }
+    },
+    {
+      "vehicleId": 64129,
+      "truckNumber": "9829",
+      "vin": "3AKJGLD50GSGU9829",
+      "uid": "c3b7be3b-a080-423a-b96f-e91ff7380818",
+      "hasDifference": false,
+      "iftaTotals": {
+        "PA": 1237,
+        "NJ": 521,
+        "NY": 493,
+        "CT": 301,
+        "DE": 24,
+        "MD": 170,
+        "VA": 1597,
+        "NC": 789,
+        "WV": 106,
+        "SC": 82
+      },
+      "movementTotals": {
+        "PA": 1237,
+        "NJ": 521,
+        "NY": 493,
+        "CT": 301,
+        "DE": 24,
+        "MD": 170,
+        "VA": 1597,
+        "NC": 789,
+        "WV": 106,
+        "SC": 82
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5320,
+        "movementTotalMiles": 5320,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5320
+      }
+    },
+    {
+      "vehicleId": 63924,
+      "truckNumber": "007",
+      "vin": "3AKJHHDRXNSNE2516",
+      "uid": "36486e58-97b0-482c-a802-1d26cf5ca496",
+      "hasDifference": true,
+      "iftaTotals": {
+        "IL": 103,
+        "IN": 247,
+        "OH": 177,
+        "WV": 232,
+        "VA": 2566,
+        "NC": 1505,
+        "MD": 842,
+        "DE": 209,
+        "NJ": 754,
+        "DC": 0,
+        "PA": 1046,
+        "UNKNOWN": 17,
+        "TN": 292,
+        "GA": 46,
+        "AL": 479,
+        "MS": 347,
+        "LA": 122
+      },
+      "movementTotals": {
+        "IL": 103,
+        "IN": 247,
+        "OH": 177,
+        "WV": 232,
+        "VA": 2583,
+        "NC": 1505,
+        "MD": 842,
+        "DE": 209,
+        "NJ": 754,
+        "PA": 1046,
+        "TN": 292,
+        "GA": 46,
+        "AL": 479,
+        "MS": 347,
+        "LA": 122
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 2566,
+          "movementMiles": 2583,
+          "difference": -17
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 17,
+          "movementMiles": 0,
+          "difference": 17
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8984,
+        "movementTotalMiles": 8984,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8984
+      }
+    },
+    {
+      "vehicleId": 63913,
+      "truckNumber": "006",
+      "vin": "3AKJHHDR9NSNA7904",
+      "uid": "493c4d14-98cb-45f6-a5e1-d3be4675ba62",
+      "hasDifference": true,
+      "iftaTotals": {
+        "IL": 1016,
+        "IN": 149,
+        "OH": 469,
+        "PA": 908,
+        "MD": 679,
+        "WV": 63,
+        "DE": 32,
+        "NJ": 174,
+        "VA": 898,
+        "NC": 522,
+        "SC": 194,
+        "GA": 694,
+        "FL": 702,
+        "AL": 601,
+        "UNKNOWN": 4,
+        "MS": 190,
+        "TN": 796,
+        "NY": 222,
+        "KY": 466,
+        "IA": 38
+      },
+      "movementTotals": {
+        "IL": 1016,
+        "IN": 149,
+        "OH": 469,
+        "PA": 908,
+        "MD": 679,
+        "WV": 63,
+        "DE": 32,
+        "NJ": 174,
+        "VA": 898,
+        "NC": 522,
+        "SC": 194,
+        "GA": 694,
+        "FL": 702,
+        "AL": 605,
+        "MS": 190,
+        "TN": 796,
+        "NY": 222,
+        "KY": 466,
+        "IA": 38
+      },
+      "differences": [
+        {
+          "state": "AL",
+          "iftaMiles": 601,
+          "movementMiles": 605,
+          "difference": -4
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 4,
+          "movementMiles": 0,
+          "difference": 4
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8817,
+        "movementTotalMiles": 8817,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8817
+      }
+    },
+    {
+      "vehicleId": 63645,
+      "truckNumber": "563",
+      "vin": "3AKJHHDR2KSKC2392",
+      "uid": "4b94cdd6-fa8b-4372-8620-dbd8d8c3ab24",
+      "hasDifference": false,
+      "iftaTotals": {
+        "FL": 5713,
+        "GA": 3211,
+        "SC": 468,
+        "NC": 220
+      },
+      "movementTotals": {
+        "FL": 5713,
+        "GA": 3211,
+        "SC": 468,
+        "NC": 220
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 9612,
+        "movementTotalMiles": 9612,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 9612
+      }
+    },
+    {
+      "vehicleId": 63523,
+      "truckNumber": "6810",
+      "vin": "3AKJHHDR8LSLL6810",
+      "uid": "40f61d0c-da14-48ac-83e8-57c75c3fdd60",
+      "hasDifference": false,
+      "iftaTotals": {
+        "AL": 512,
+        "MS": 329,
+        "LA": 238,
+        "TN": 147,
+        "KY": 139,
+        "IN": 1061,
+        "IL": 855,
+        "MO": 441,
+        "KS": 78,
+        "OH": 879,
+        "WV": 531,
+        "PA": 108,
+        "MD": 169,
+        "VA": 215,
+        "WI": 11,
+        "NC": 361
+      },
+      "movementTotals": {
+        "AL": 512,
+        "MS": 329,
+        "LA": 238,
+        "TN": 147,
+        "KY": 139,
+        "IN": 1061,
+        "IL": 855,
+        "MO": 441,
+        "KS": 78,
+        "OH": 879,
+        "WV": 531,
+        "PA": 108,
+        "MD": 169,
+        "VA": 215,
+        "WI": 11,
+        "NC": 361
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 6074,
+        "movementTotalMiles": 6074,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 6074
+      }
+    },
+    {
+      "vehicleId": 63379,
+      "truckNumber": "007",
+      "vin": "3AKJHHDR3LSLK0787",
+      "uid": "0a129f60-576a-4ad9-b0d3-08d748e6e7b6",
+      "hasDifference": false,
+      "iftaTotals": {
+        "UT": 326,
+        "WY": 800,
+        "NE": 909,
+        "IA": 321,
+        "MO": 382,
+        "IL": 380,
+        "KY": 311,
+        "TN": 341,
+        "GA": 270,
+        "OH": 328,
+        "IN": 354,
+        "NV": 844,
+        "AZ": 52
+      },
+      "movementTotals": {
+        "UT": 326,
+        "WY": 800,
+        "NE": 909,
+        "IA": 321,
+        "MO": 382,
+        "IL": 380,
+        "KY": 311,
+        "TN": 341,
+        "GA": 270,
+        "OH": 328,
+        "IN": 354,
+        "NV": 844,
+        "AZ": 52
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5618,
+        "movementTotalMiles": 5618,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5618
+      }
+    },
+    {
+      "vehicleId": 63163,
+      "truckNumber": "4266",
+      "vin": "3AKJHHDR9PSLK4266",
+      "uid": "c84792e1-5918-41f2-88ee-fbe467bff018",
+      "hasDifference": false,
+      "iftaTotals": {
+        "OH": 332,
+        "IN": 167,
+        "IL": 582,
+        "MO": 478,
+        "KS": 131,
+        "KY": 338,
+        "TN": 194,
+        "PA": 1027,
+        "MD": 331,
+        "WV": 27,
+        "VA": 1267,
+        "NC": 509,
+        "NJ": 170,
+        "DE": 16,
+        "DC": 10
+      },
+      "movementTotals": {
+        "OH": 332,
+        "IN": 167,
+        "IL": 582,
+        "MO": 478,
+        "KS": 131,
+        "KY": 338,
+        "TN": 194,
+        "PA": 1027,
+        "MD": 331,
+        "WV": 27,
+        "VA": 1267,
+        "NC": 509,
+        "NJ": 170,
+        "DE": 16,
+        "DC": 10
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5579,
+        "movementTotalMiles": 5579,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5579
+      }
+    },
+    {
+      "vehicleId": 63139,
+      "truckNumber": "05",
+      "vin": "4V4NC9EH5JN896840",
+      "uid": "8fa2794f-8b00-4a9b-96c2-b63b32221dc3",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IN": 70,
+        "OH": 255,
+        "PA": 648,
+        "NJ": 396,
+        "MD": 63,
+        "WV": 55,
+        "VA": 831,
+        "TN": 1057,
+        "GA": 219,
+        "NY": 19,
+        "DE": 13,
+        "DC": 1,
+        "NC": 182,
+        "SC": 196,
+        "FL": 622
+      },
+      "movementTotals": {
+        "IN": 70,
+        "OH": 255,
+        "PA": 648,
+        "NJ": 396,
+        "MD": 63,
+        "WV": 55,
+        "VA": 831,
+        "TN": 1057,
+        "GA": 219,
+        "NY": 19,
+        "DE": 13,
+        "DC": 1,
+        "NC": 182,
+        "SC": 196,
+        "FL": 622
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 4627,
+        "movementTotalMiles": 4627,
+        "iftaJumpTotal": 73,
+        "movementJumpTotal": 73,
+        "iftaPlusJumpTotal": 4700
+      }
+    },
+    {
+      "vehicleId": 63038,
+      "truckNumber": "09",
+      "vin": "4V4NC9EH1FN915083",
+      "uid": "0057eb8a-66b9-40fe-b4e9-f5c1d76f20fa",
+      "hasDifference": true,
+      "iftaTotals": {
+        "FL": 1086,
+        "AL": 65,
+        "UNKNOWN": 3,
+        "MS": 210,
+        "LA": 185,
+        "TX": 791,
+        "AR": 334,
+        "MO": 87,
+        "IL": 362,
+        "IN": 44,
+        "MI": 722,
+        "OH": 201,
+        "PA": 361,
+        "NJ": 64,
+        "DE": 16,
+        "MD": 105,
+        "VA": 186,
+        "NC": 184,
+        "SC": 196,
+        "GA": 118
+      },
+      "movementTotals": {
+        "FL": 1086,
+        "AL": 68,
+        "MS": 210,
+        "LA": 185,
+        "TX": 791,
+        "AR": 334,
+        "MO": 87,
+        "IL": 362,
+        "IN": 44,
+        "MI": 722,
+        "OH": 201,
+        "PA": 361,
+        "NJ": 64,
+        "DE": 16,
+        "MD": 105,
+        "VA": 186,
+        "NC": 184,
+        "SC": 196,
+        "GA": 118
+      },
+      "differences": [
+        {
+          "state": "AL",
+          "iftaMiles": 65,
+          "movementMiles": 68,
+          "difference": -3
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 3,
+          "movementMiles": 0,
+          "difference": 3
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 5320,
+        "movementTotalMiles": 5320,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5320
+      }
+    },
+    {
+      "vehicleId": 63000,
+      "truckNumber": "005",
+      "vin": "3AKJHHDR6NSNJ4796",
+      "uid": "558e20cc-1084-4fa5-bca0-2ed7f519d4f9",
+      "hasDifference": false,
+      "iftaTotals": {
+        "OH": 127,
+        "PA": 295,
+        "NJ": 9
+      },
+      "movementTotals": {
+        "OH": 127,
+        "PA": 295,
+        "NJ": 9
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 431,
+        "movementTotalMiles": 431,
+        "iftaJumpTotal": 69,
+        "movementJumpTotal": 69,
+        "iftaPlusJumpTotal": 500
+      }
+    },
+    {
+      "vehicleId": 62842,
+      "truckNumber": "317",
+      "vin": "3AKJGLDR1JSHU5284",
+      "uid": "ca9299c0-6780-4035-91ee-7f5c6056218e",
+      "hasDifference": true,
+      "iftaTotals": {
+        "MD": 255,
+        "DE": 33,
+        "NJ": 353,
+        "UNKNOWN": 4,
+        "PA": 533,
+        "WV": 44,
+        "VA": 482,
+        "NC": 296,
+        "SC": 437,
+        "GA": 610,
+        "FL": 914,
+        "LA": 0,
+        "OH": 286,
+        "IN": 161,
+        "IL": 353,
+        "KY": 95,
+        "TN": 188
+      },
+      "movementTotals": {
+        "MD": 255,
+        "DE": 33,
+        "NJ": 357,
+        "PA": 533,
+        "WV": 44,
+        "VA": 482,
+        "NC": 296,
+        "SC": 437,
+        "GA": 610,
+        "FL": 914,
+        "OH": 286,
+        "IN": 161,
+        "IL": 353,
+        "KY": 95,
+        "TN": 188
+      },
+      "differences": [
+        {
+          "state": "NJ",
+          "iftaMiles": 353,
+          "movementMiles": 357,
+          "difference": -4
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 4,
+          "movementMiles": 0,
+          "difference": 4
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 5044,
+        "movementTotalMiles": 5044,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5044
+      }
+    },
+    {
+      "vehicleId": 62831,
+      "truckNumber": "2020",
+      "vin": "3AKJGLFG6LSLG4182",
+      "uid": "a552eb24-27a6-4dda-b04b-e67c5ccadf53",
+      "hasDifference": false,
+      "iftaTotals": {
+        "AZ": 229,
+        "CA": 488,
+        "NV": 125,
+        "UT": 393,
+        "WY": 405,
+        "NE": 305,
+        "KS": 425,
+        "MO": 510,
+        "IL": 315,
+        "IN": 320,
+        "OH": 455,
+        "WV": 136,
+        "PA": 224,
+        "MD": 336
+      },
+      "movementTotals": {
+        "AZ": 229,
+        "CA": 488,
+        "NV": 125,
+        "UT": 393,
+        "WY": 405,
+        "NE": 305,
+        "KS": 425,
+        "MO": 510,
+        "IL": 315,
+        "IN": 320,
+        "OH": 455,
+        "WV": 136,
+        "PA": 224,
+        "MD": 336
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 4666,
+        "movementTotalMiles": 4666,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 4666
+      }
+    },
+    {
+      "vehicleId": 62585,
+      "truckNumber": "318",
+      "vin": "3AKJHHDR9TSWM4259",
+      "uid": "c708d49b-3e58-4caf-b6f0-c841e5641b90",
+      "hasDifference": false,
+      "iftaTotals": {
+        "MA": 53,
+        "CT": 199,
+        "RI": 74,
+        "NY": 24,
+        "NJ": 216,
+        "PA": 542,
+        "OH": 237,
+        "IN": 157,
+        "IL": 76
+      },
+      "movementTotals": {
+        "MA": 53,
+        "CT": 199,
+        "RI": 74,
+        "NY": 24,
+        "NJ": 216,
+        "PA": 542,
+        "OH": 237,
+        "IN": 157,
+        "IL": 76
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 1578,
+        "movementTotalMiles": 1578,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 1578
+      }
+    },
+    {
+      "vehicleId": 62569,
+      "truckNumber": "771",
+      "vin": "3AKJHHDR2RSUS5121",
+      "uid": "98ec327f-78f0-4956-b795-fc6866e2586f",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IL": 50,
+        "IN": 155,
+        "OH": 468,
+        "PA": 1557,
+        "DE": 72,
+        "MD": 607,
+        "NJ": 886,
+        "VA": 1471,
+        "WV": 425,
+        "KY": 215,
+        "NC": 507,
+        "SC": 423,
+        "GA": 629,
+        "AL": 416,
+        "NY": 55,
+        "CT": 227,
+        "MA": 191,
+        "NH": 46,
+        "TN": 222,
+        "MS": 110
+      },
+      "movementTotals": {
+        "IL": 50,
+        "IN": 155,
+        "OH": 468,
+        "PA": 1557,
+        "DE": 72,
+        "MD": 607,
+        "NJ": 886,
+        "VA": 1471,
+        "WV": 425,
+        "KY": 215,
+        "NC": 507,
+        "SC": 423,
+        "GA": 629,
+        "AL": 416,
+        "NY": 55,
+        "CT": 227,
+        "MA": 191,
+        "NH": 46,
+        "TN": 222,
+        "MS": 110
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 8732,
+        "movementTotalMiles": 8732,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8732
+      }
+    },
+    {
+      "vehicleId": 62494,
+      "truckNumber": "96266",
+      "vin": "3AKJHHDR1TSWX4761",
+      "uid": "e5f62cdc-653d-40f7-ba28-9c7dafc8b460",
+      "hasDifference": false,
+      "iftaTotals": {
+        "NJ": 169,
+        "PA": 1496,
+        "NY": 34,
+        "MD": 36,
+        "WV": 229,
+        "VA": 923,
+        "NC": 279,
+        "SC": 521,
+        "GA": 1647,
+        "AL": 276,
+        "TN": 609,
+        "KY": 43,
+        "FL": 370,
+        "OH": 797,
+        "IN": 313,
+        "IL": 185
+      },
+      "movementTotals": {
+        "NJ": 169,
+        "PA": 1496,
+        "NY": 34,
+        "MD": 36,
+        "WV": 229,
+        "VA": 923,
+        "NC": 279,
+        "SC": 521,
+        "GA": 1647,
+        "AL": 276,
+        "TN": 609,
+        "KY": 43,
+        "FL": 370,
+        "OH": 797,
+        "IN": 313,
+        "IL": 185
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 7927,
+        "movementTotalMiles": 7927,
+        "iftaJumpTotal": 53,
+        "movementJumpTotal": 53,
+        "iftaPlusJumpTotal": 7980
+      }
+    },
+    {
+      "vehicleId": 62454,
+      "truckNumber": "96254",
+      "vin": "3AKJHHDR7TSWX4764",
+      "uid": "e589e873-3b4a-4a7c-b5b9-9902be343594",
+      "hasDifference": true,
+      "iftaTotals": {
+        "CT": 87,
+        "NY": 56,
+        "NJ": 213,
+        "PA": 366,
+        "DE": 16,
+        "MD": 114,
+        "VA": 393,
+        "TN": 515,
+        "MS": 251,
+        "AR": 281,
+        "OK": 775,
+        "KS": 85,
+        "TX": 1079,
+        "NM": 536,
+        "AZ": 590,
+        "UNKNOWN": 7,
+        "LA": 253,
+        "AL": 61,
+        "FL": 279,
+        "GA": 735
+      },
+      "movementTotals": {
+        "CT": 87,
+        "NY": 56,
+        "NJ": 213,
+        "PA": 366,
+        "DE": 16,
+        "MD": 114,
+        "VA": 393,
+        "TN": 515,
+        "MS": 251,
+        "AR": 281,
+        "OK": 775,
+        "KS": 85,
+        "TX": 1082,
+        "NM": 536,
+        "AZ": 590,
+        "LA": 253,
+        "AL": 65,
+        "FL": 279,
+        "GA": 735
+      },
+      "differences": [
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 7,
+          "movementMiles": 0,
+          "difference": 7
+        },
+        {
+          "state": "AL",
+          "iftaMiles": 61,
+          "movementMiles": 65,
+          "difference": -4
+        },
+        {
+          "state": "TX",
+          "iftaMiles": 1079,
+          "movementMiles": 1082,
+          "difference": -3
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 6692,
+        "movementTotalMiles": 6692,
+        "iftaJumpTotal": 167,
+        "movementJumpTotal": 167,
+        "iftaPlusJumpTotal": 6859
+      }
+    },
+    {
+      "vehicleId": 62437,
+      "truckNumber": "88",
+      "vin": "3AKJHHDRXNSMH4962",
+      "uid": "f744d653-0b46-4d31-86b7-5ce8f81474f1",
+      "hasDifference": false,
+      "iftaTotals": {
+        "NY": 486,
+        "PA": 1688,
+        "MD": 353,
+        "DE": 38,
+        "NJ": 366,
+        "DC": 8,
+        "VA": 741,
+        "NC": 488,
+        "CT": 228,
+        "MA": 51,
+        "OH": 766,
+        "WV": 258,
+        "KY": 255,
+        "SC": 274,
+        "GA": 91
+      },
+      "movementTotals": {
+        "NY": 486,
+        "PA": 1688,
+        "MD": 353,
+        "DE": 38,
+        "NJ": 366,
+        "DC": 8,
+        "VA": 741,
+        "NC": 488,
+        "CT": 228,
+        "MA": 51,
+        "OH": 766,
+        "WV": 258,
+        "KY": 255,
+        "SC": 274,
+        "GA": 91
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 6091,
+        "movementTotalMiles": 6091,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 6091
+      }
+    },
+    {
+      "vehicleId": 62388,
+      "truckNumber": "564",
+      "vin": "3AKJHHDR7LSLK1036",
+      "uid": "84a060e6-4303-42fc-a7c7-8b5f32938649",
+      "hasDifference": false,
+      "iftaTotals": {
+        "FL": 5637,
+        "GA": 3246,
+        "SC": 454,
+        "NC": 201
+      },
+      "movementTotals": {
+        "FL": 5637,
+        "GA": 3246,
+        "SC": 454,
+        "NC": 201
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 9538,
+        "movementTotalMiles": 9538,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 9538
+      }
+    },
+    {
+      "vehicleId": 62190,
+      "truckNumber": "1014",
+      "vin": "1FUJGLD56FLGF9979",
+      "uid": "05399be6-b08d-4244-9945-80830c9aae75",
+      "hasDifference": true,
+      "iftaTotals": {
+        "RI": 42,
+        "MA": 103,
+        "VT": 55,
+        "NY": 661,
+        "NJ": 557,
+        "PA": 688,
+        "MD": 330,
+        "VA": 800,
+        "NC": 539,
+        "DC": 1,
+        "UNKNOWN": 13,
+        "DE": 48
+      },
+      "movementTotals": {
+        "RI": 42,
+        "MA": 103,
+        "VT": 55,
+        "NY": 661,
+        "NJ": 557,
+        "PA": 688,
+        "MD": 343,
+        "VA": 800,
+        "NC": 539,
+        "DC": 1,
+        "DE": 48
+      },
+      "differences": [
+        {
+          "state": "MD",
+          "iftaMiles": 330,
+          "movementMiles": 343,
+          "difference": -13
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 13,
+          "movementMiles": 0,
+          "difference": 13
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 3837,
+        "movementTotalMiles": 3837,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 3837
+      }
+    },
+    {
+      "vehicleId": 62163,
+      "truckNumber": "01",
+      "vin": "3AKJHHDR2LSLH2424",
+      "uid": "2b24a941-4329-47ad-b906-c8c8337f5b49",
+      "hasDifference": false,
+      "iftaTotals": {
+        "PA": 2021,
+        "MD": 426,
+        "VA": 752,
+        "OH": 1605,
+        "NJ": 307,
+        "DE": 22,
+        "WV": 28,
+        "IN": 475,
+        "IL": 405,
+        "WI": 595,
+        "MN": 133,
+        "MO": 298,
+        "OK": 362,
+        "TX": 180,
+        "NM": 462,
+        "AZ": 648
+      },
+      "movementTotals": {
+        "PA": 2021,
+        "MD": 426,
+        "VA": 752,
+        "OH": 1605,
+        "NJ": 307,
+        "DE": 22,
+        "WV": 28,
+        "IN": 475,
+        "IL": 405,
+        "WI": 595,
+        "MN": 133,
+        "MO": 298,
+        "OK": 362,
+        "TX": 180,
+        "NM": 462,
+        "AZ": 648
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 8719,
+        "movementTotalMiles": 8719,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8719
+      }
+    },
+    {
+      "vehicleId": 62022,
+      "truckNumber": "2575",
+      "vin": "3AKJHHDR7LSLR2575",
+      "uid": "db8e473f-aa41-4cbd-b8fc-5f9581578fc5",
+      "hasDifference": false,
+      "iftaTotals": {
+        "GA": 220,
+        "TN": 185,
+        "KY": 94,
+        "IL": 325,
+        "MO": 505,
+        "KS": 863,
+        "CO": 361,
+        "IN": 161,
+        "OH": 228,
+        "WV": 84,
+        "PA": 668,
+        "MD": 277,
+        "VA": 596,
+        "DC": 15,
+        "NY": 208,
+        "NC": 473,
+        "SC": 309,
+        "FL": 218
+      },
+      "movementTotals": {
+        "GA": 220,
+        "TN": 185,
+        "KY": 94,
+        "IL": 325,
+        "MO": 505,
+        "KS": 863,
+        "CO": 361,
+        "IN": 161,
+        "OH": 228,
+        "WV": 84,
+        "PA": 668,
+        "MD": 277,
+        "VA": 596,
+        "DC": 15,
+        "NY": 208,
+        "NC": 473,
+        "SC": 309,
+        "FL": 218
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5790,
+        "movementTotalMiles": 5790,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5790
+      }
+    },
+    {
+      "vehicleId": 62007,
+      "truckNumber": "077",
+      "vin": "3AKJHHDR8PSVE7505",
+      "uid": "90b4114d-32e4-419e-b995-26b9c67d1289",
+      "hasDifference": true,
+      "iftaTotals": {
+        "VA": 1898,
+        "MD": 651,
+        "PA": 1527,
+        "NJ": 639,
+        "DE": 71,
+        "NC": 583,
+        "SC": 317,
+        "WV": 96,
+        "OH": 552,
+        "KY": 778,
+        "TN": 947,
+        "NY": 628,
+        "UNKNOWN": 2,
+        "GA": 663,
+        "AL": 322
+      },
+      "movementTotals": {
+        "VA": 1898,
+        "MD": 651,
+        "PA": 1527,
+        "NJ": 639,
+        "DE": 71,
+        "NC": 583,
+        "SC": 317,
+        "WV": 96,
+        "OH": 552,
+        "KY": 778,
+        "TN": 947,
+        "NY": 630,
+        "GA": 663,
+        "AL": 322
+      },
+      "differences": [
+        {
+          "state": "NY",
+          "iftaMiles": 628,
+          "movementMiles": 630,
+          "difference": -2
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 2,
+          "movementMiles": 0,
+          "difference": 2
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 9674,
+        "movementTotalMiles": 9674,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 9674
+      }
+    },
+    {
+      "vehicleId": 61815,
+      "truckNumber": "312",
+      "vin": "3AKJHHDR8MSMH3629",
+      "uid": "b933fb3b-f32c-4a31-a839-ddb6d1c256dc",
+      "hasDifference": true,
+      "iftaTotals": {
+        "PA": 1373,
+        "MD": 220,
+        "WV": 65,
+        "VA": 940,
+        "NC": 597,
+        "SC": 748,
+        "GA": 966,
+        "TN": 184,
+        "KY": 135,
+        "IL": 403,
+        "MO": 250,
+        "KS": 425,
+        "CO": 414,
+        "NM": 99,
+        "TX": 1200,
+        "LA": 251,
+        "MS": 79,
+        "AL": 270,
+        "DE": 32,
+        "NJ": 476,
+        "UNKNOWN": 6,
+        "NY": 21,
+        "OH": 769,
+        "IN": 356
+      },
+      "movementTotals": {
+        "PA": 1373,
+        "MD": 220,
+        "WV": 65,
+        "VA": 940,
+        "NC": 597,
+        "SC": 748,
+        "GA": 966,
+        "TN": 184,
+        "KY": 135,
+        "IL": 403,
+        "MO": 250,
+        "KS": 425,
+        "CO": 414,
+        "NM": 99,
+        "TX": 1200,
+        "LA": 251,
+        "MS": 79,
+        "AL": 270,
+        "DE": 32,
+        "NJ": 482,
+        "NY": 21,
+        "OH": 769,
+        "IN": 356
+      },
+      "differences": [
+        {
+          "state": "NJ",
+          "iftaMiles": 476,
+          "movementMiles": 482,
+          "difference": -6
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 6,
+          "movementMiles": 0,
+          "difference": 6
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 10279,
+        "movementTotalMiles": 10279,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 10279
+      }
+    },
+    {
+      "vehicleId": 61118,
+      "truckNumber": "800",
+      "vin": "4V4NC9EG8FN190847",
+      "uid": "39e0f212-3721-4c71-a9ce-150c6941f7de",
+      "hasDifference": false,
+      "iftaTotals": {
+        "NC": 852,
+        "SC": 216,
+        "VA": 753,
+        "MD": 346,
+        "PA": 660,
+        "NY": 231,
+        "CT": 323,
+        "MA": 258,
+        "NJ": 344,
+        "DE": 56,
+        "GA": 122,
+        "FL": 198
+      },
+      "movementTotals": {
+        "NC": 852,
+        "SC": 216,
+        "VA": 753,
+        "MD": 346,
+        "PA": 660,
+        "NY": 231,
+        "CT": 323,
+        "MA": 258,
+        "NJ": 344,
+        "DE": 56,
+        "GA": 122,
+        "FL": 198
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 4359,
+        "movementTotalMiles": 4359,
+        "iftaJumpTotal": 203,
+        "movementJumpTotal": 203,
+        "iftaPlusJumpTotal": 4562
+      }
+    },
+    {
+      "vehicleId": 61090,
+      "truckNumber": "001",
+      "vin": "3AKJHHDR2KSKH2676",
+      "uid": "876483b0-eadd-43e9-997e-8d71d206f70c",
+      "hasDifference": true,
+      "iftaTotals": {
+        "NC": 940,
+        "VA": 2057,
+        "MD": 536,
+        "DE": 57,
+        "NJ": 486,
+        "SC": 414,
+        "GA": 657,
+        "AL": 224,
+        "FL": 1266,
+        "PA": 255,
+        "WV": 207,
+        "TN": 1028,
+        "KY": 327,
+        "OH": 203,
+        "IL": 166,
+        "MO": 252,
+        "KS": 425,
+        "CO": 897,
+        "WY": 796,
+        "NE": 34,
+        "UT": 185,
+        "OK": 40,
+        "TX": 739,
+        "AR": 272
+      },
+      "movementTotals": {
+        "NC": 940,
+        "VA": 2092,
+        "MD": 536,
+        "DE": 57,
+        "NJ": 486,
+        "SC": 414,
+        "GA": 657,
+        "AL": 224,
+        "FL": 1266,
+        "PA": 255,
+        "WV": 207,
+        "TN": 1063,
+        "KY": 327,
+        "OH": 203,
+        "IL": 166,
+        "MO": 252,
+        "KS": 425,
+        "CO": 897,
+        "WY": 796,
+        "NE": 34,
+        "UT": 185,
+        "OK": 40,
+        "TX": 739,
+        "AR": 272
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 2057,
+          "movementMiles": 2092,
+          "difference": -35
+        },
+        {
+          "state": "TN",
+          "iftaMiles": 1028,
+          "movementMiles": 1063,
+          "difference": -35
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 12463,
+        "movementTotalMiles": 12533,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 12463
+      }
+    },
+    {
+      "vehicleId": 60847,
+      "truckNumber": "5406",
+      "vin": "4V4NC9EH1KN905406",
+      "uid": "2692bc3e-02a7-4754-9091-b632bed901c4",
+      "hasDifference": true,
+      "iftaTotals": {
+        "FL": 243
+      },
+      "movementTotals": {
+        "FL": 216
+      },
+      "differences": [
+        {
+          "state": "FL",
+          "iftaMiles": 243,
+          "movementMiles": 216,
+          "difference": 27
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 243,
+        "movementTotalMiles": 216,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 243
+      }
+    },
+    {
+      "vehicleId": 60496,
+      "truckNumber": "321",
+      "vin": "3AKJHHDR3TSWT2429",
+      "uid": "bb914c04-4ca0-48b4-87d8-6bf6a7910966",
+      "hasDifference": true,
+      "iftaTotals": {
+        "TN": 323,
+        "KY": 934,
+        "WV": 465,
+        "VA": 1165,
+        "NC": 477,
+        "SC": 98,
+        "MD": 329,
+        "PA": 1764,
+        "OH": 1020,
+        "IN": 308,
+        "IL": 206,
+        "WI": 178,
+        "DE": 119,
+        "NJ": 224,
+        "UNKNOWN": 28,
+        "AL": 352,
+        "GA": 23
+      },
+      "movementTotals": {
+        "TN": 323,
+        "KY": 934,
+        "WV": 465,
+        "VA": 1193,
+        "NC": 477,
+        "SC": 98,
+        "MD": 329,
+        "PA": 1764,
+        "OH": 1020,
+        "IN": 308,
+        "IL": 206,
+        "WI": 178,
+        "DE": 119,
+        "NJ": 224,
+        "AL": 352,
+        "GA": 23
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 1165,
+          "movementMiles": 1193,
+          "difference": -28
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 28,
+          "movementMiles": 0,
+          "difference": 28
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8013,
+        "movementTotalMiles": 8013,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8013
+      }
+    },
+    {
+      "vehicleId": 60034,
+      "truckNumber": "900",
+      "vin": "3AKJHHDR4NSNA4070",
+      "uid": "15c6bd3b-1df0-43b3-bffd-63fcb6b21397",
+      "hasDifference": false,
+      "iftaTotals": {
+        "NY": 387,
+        "PA": 1106,
+        "NJ": 856,
+        "DE": 111,
+        "MD": 772,
+        "VA": 1661,
+        "OH": 509,
+        "IN": 251,
+        "IL": 438,
+        "KY": 348,
+        "TN": 528,
+        "GA": 274,
+        "SC": 107,
+        "NC": 233,
+        "WV": 81,
+        "AL": 399
+      },
+      "movementTotals": {
+        "NY": 387,
+        "PA": 1106,
+        "NJ": 856,
+        "DE": 111,
+        "MD": 772,
+        "VA": 1661,
+        "OH": 509,
+        "IN": 251,
+        "IL": 438,
+        "KY": 348,
+        "TN": 528,
+        "GA": 274,
+        "SC": 107,
+        "NC": 233,
+        "WV": 81,
+        "AL": 399
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 8061,
+        "movementTotalMiles": 8061,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8061
+      }
+    },
+    {
+      "vehicleId": 59842,
+      "truckNumber": "07",
+      "vin": "3AKJHHDR1MSMU4820",
+      "uid": "1d05308c-500a-4320-9a31-a4aa7a032657",
+      "hasDifference": true,
+      "iftaTotals": {
+        "AR": 623,
+        "LA": 101,
+        "OK": 571,
+        "KS": 389,
+        "CO": 522,
+        "UT": 628,
+        "NM": 560,
+        "TX": 1034,
+        "MO": 291,
+        "IL": 644,
+        "IN": 429,
+        "OH": 484,
+        "PA": 484,
+        "MD": 385,
+        "VA": 59,
+        "WV": 56,
+        "KY": 153
+      },
+      "movementTotals": {
+        "AR": 623,
+        "LA": 101,
+        "OK": 571,
+        "KS": 389,
+        "CO": 522,
+        "UT": 628,
+        "NM": 560,
+        "TX": 1034,
+        "MO": 291,
+        "IL": 643,
+        "IN": 429,
+        "OH": 484,
+        "PA": 484,
+        "MD": 385,
+        "VA": 59,
+        "WV": 56,
+        "KY": 153
+      },
+      "differences": [
+        {
+          "state": "IL",
+          "iftaMiles": 644,
+          "movementMiles": 643,
+          "difference": 1
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 7413,
+        "movementTotalMiles": 7412,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 7413
+      }
+    },
+    {
+      "vehicleId": 59724,
+      "truckNumber": "003",
+      "vin": "3AKJHHDR6MSMH4231",
+      "uid": "9da18c18-98b4-47f7-be4a-3e7c1264fb97",
+      "hasDifference": false,
+      "iftaTotals": {
+        "PA": 87,
+        "NJ": 1
+      },
+      "movementTotals": {
+        "PA": 87,
+        "NJ": 1
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 88,
+        "movementTotalMiles": 88,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 88
+      }
+    },
+    {
+      "vehicleId": 59622,
+      "truckNumber": "01",
+      "vin": "3AKJHHDR6KSKJ0895",
+      "uid": "80d75cdd-4f32-4a4d-952f-c3e6d3ec0eac",
+      "hasDifference": false,
+      "iftaTotals": {
+        "MD": 607,
+        "WV": 335,
+        "VA": 1595,
+        "NC": 1375,
+        "SC": 1248,
+        "GA": 982,
+        "FL": 1037,
+        "DC": 1,
+        "DE": 94,
+        "NJ": 437,
+        "PA": 568
+      },
+      "movementTotals": {
+        "MD": 607,
+        "WV": 335,
+        "VA": 1595,
+        "NC": 1375,
+        "SC": 1248,
+        "GA": 982,
+        "FL": 1037,
+        "DC": 1,
+        "DE": 94,
+        "NJ": 437,
+        "PA": 568
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 8279,
+        "movementTotalMiles": 8279,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8279
+      }
+    },
+    {
+      "vehicleId": 59593,
+      "truckNumber": "001",
+      "vin": "4V4NC9EH5GN944507",
+      "uid": "d4ada6fa-6c46-4f4f-a4d8-0a8bb495975c",
+      "hasDifference": true,
+      "iftaTotals": {
+        "NC": 83,
+        "VA": 873,
+        "MD": 311,
+        "UNKNOWN": 58,
+        "DE": 52,
+        "PA": 1046,
+        "NJ": 425,
+        "NY": 863,
+        "OH": 485,
+        "IN": 335,
+        "WV": 15,
+        "TN": 605,
+        "GA": 4
+      },
+      "movementTotals": {
+        "NC": 83,
+        "VA": 873,
+        "MD": 325,
+        "DE": 52,
+        "PA": 1046,
+        "NJ": 446,
+        "NY": 886,
+        "OH": 485,
+        "IN": 335,
+        "WV": 15,
+        "TN": 605,
+        "GA": 4
+      },
+      "differences": [
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 58,
+          "movementMiles": 0,
+          "difference": 58
+        },
+        {
+          "state": "NY",
+          "iftaMiles": 863,
+          "movementMiles": 886,
+          "difference": -23
+        },
+        {
+          "state": "NJ",
+          "iftaMiles": 425,
+          "movementMiles": 446,
+          "difference": -21
+        },
+        {
+          "state": "MD",
+          "iftaMiles": 311,
+          "movementMiles": 325,
+          "difference": -14
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 5155,
+        "movementTotalMiles": 5155,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5155
+      }
+    },
+    {
+      "vehicleId": 59454,
+      "truckNumber": "004",
+      "vin": "3AKJHHDRXMSMH4409",
+      "uid": "5c1117ac-d8b2-4e04-b896-9a2749729353",
+      "hasDifference": true,
+      "iftaTotals": {
+        "PA": 707,
+        "NY": 100,
+        "CT": 113,
+        "MD": 326,
+        "WV": 78,
+        "VA": 1679,
+        "NC": 597,
+        "SC": 315,
+        "GA": 1363,
+        "TN": 1219,
+        "AL": 457,
+        "DE": 52,
+        "NJ": 237,
+        "FL": 434,
+        "UNKNOWN": 3,
+        "MS": 167,
+        "LA": 401,
+        "TX": 289,
+        "AR": 231
+      },
+      "movementTotals": {
+        "PA": 707,
+        "NY": 100,
+        "CT": 113,
+        "VA": 1679,
+        "NC": 597,
+        "SC": 315,
+        "GA": 1363,
+        "TN": 1219,
+        "AL": 460,
+        "WV": 78,
+        "MD": 326,
+        "DE": 52,
+        "NJ": 237,
+        "FL": 434,
+        "MS": 167,
+        "LA": 401,
+        "TX": 289,
+        "AR": 231
+      },
+      "differences": [
+        {
+          "state": "AL",
+          "iftaMiles": 457,
+          "movementMiles": 460,
+          "difference": -3
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 3,
+          "movementMiles": 0,
+          "difference": 3
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8768,
+        "movementTotalMiles": 8768,
+        "iftaJumpTotal": 1060,
+        "movementJumpTotal": 1060,
+        "iftaPlusJumpTotal": 9828
+      }
+    },
+    {
+      "vehicleId": 59246,
+      "truckNumber": "562",
+      "vin": "3AKJHHDR4KSKE2031",
+      "uid": "87114f3c-3e55-4494-907d-fc015bf50449",
+      "hasDifference": false,
+      "iftaTotals": {
+        "FL": 3256,
+        "GA": 1828,
+        "SC": 7
+      },
+      "movementTotals": {
+        "FL": 3256,
+        "GA": 1828,
+        "SC": 7
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5091,
+        "movementTotalMiles": 5091,
+        "iftaJumpTotal": 110,
+        "movementJumpTotal": 110,
+        "iftaPlusJumpTotal": 5201
+      }
+    },
+    {
+      "vehicleId": 59228,
+      "truckNumber": "303",
+      "vin": "4V4NC9EH3JN884637",
+      "uid": "8ace1988-3fc0-47b8-a117-eade1f03cbca",
+      "hasDifference": true,
+      "iftaTotals": {
+        "NJ": 895,
+        "DE": 164,
+        "MD": 586,
+        "VA": 756,
+        "UNKNOWN": 23,
+        "PA": 2158,
+        "NY": 949,
+        "WV": 24,
+        "NC": 315,
+        "CT": 168,
+        "MA": 29
+      },
+      "movementTotals": {
+        "NJ": 895,
+        "DE": 164,
+        "MD": 586,
+        "VA": 779,
+        "PA": 2158,
+        "NY": 949,
+        "WV": 24,
+        "NC": 315,
+        "CT": 168,
+        "MA": 29
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 756,
+          "movementMiles": 779,
+          "difference": -23
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 23,
+          "movementMiles": 0,
+          "difference": 23
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 6067,
+        "movementTotalMiles": 6067,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 6067
+      }
+    },
+    {
+      "vehicleId": 59132,
+      "truckNumber": "311",
+      "vin": "3AKJHHDR0TSWM4361",
+      "uid": "e99accdb-71ba-4fe5-aa43-9781eae8339d",
+      "hasDifference": false,
+      "iftaTotals": {
+        "WV": 40,
+        "VA": 398,
+        "NC": 857,
+        "SC": 851,
+        "GA": 892,
+        "FL": 1667,
+        "TN": 198,
+        "KY": 189,
+        "IN": 270,
+        "IL": 458,
+        "MO": 85,
+        "AR": 719,
+        "MS": 143,
+        "TX": 109,
+        "OK": 513,
+        "AL": 244
+      },
+      "movementTotals": {
+        "WV": 40,
+        "VA": 398,
+        "NC": 857,
+        "SC": 851,
+        "GA": 892,
+        "FL": 1667,
+        "TN": 198,
+        "KY": 189,
+        "IN": 270,
+        "IL": 458,
+        "MO": 85,
+        "AR": 719,
+        "MS": 143,
+        "TX": 109,
+        "OK": 513,
+        "AL": 244
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 7633,
+        "movementTotalMiles": 7633,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 7633
+      }
+    },
+    {
+      "vehicleId": 59130,
+      "truckNumber": "310",
+      "vin": "3AKJHHDR3TSWN2308",
+      "uid": "31d8837b-bf88-4664-9368-e53fdd39d92f",
+      "hasDifference": false,
+      "iftaTotals": {
+        "TX": 984,
+        "LA": 236,
+        "MS": 766,
+        "AL": 324,
+        "GA": 926,
+        "FL": 470,
+        "SC": 397,
+        "NC": 364,
+        "VA": 366,
+        "MD": 221,
+        "DE": 33,
+        "NJ": 378,
+        "NY": 90,
+        "CT": 326,
+        "MA": 65,
+        "TN": 371,
+        "AR": 564,
+        "OK": 488,
+        "KS": 811,
+        "CO": 534,
+        "WY": 789,
+        "UT": 273,
+        "ID": 273
+      },
+      "movementTotals": {
+        "TX": 984,
+        "LA": 236,
+        "MS": 766,
+        "AL": 324,
+        "GA": 926,
+        "FL": 470,
+        "SC": 397,
+        "NC": 364,
+        "VA": 366,
+        "MD": 221,
+        "DE": 33,
+        "NJ": 378,
+        "NY": 90,
+        "CT": 326,
+        "MA": 65,
+        "TN": 371,
+        "AR": 564,
+        "OK": 488,
+        "KS": 811,
+        "CO": 534,
+        "WY": 789,
+        "UT": 273,
+        "ID": 273
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 10049,
+        "movementTotalMiles": 10049,
+        "iftaJumpTotal": 187,
+        "movementJumpTotal": 187,
+        "iftaPlusJumpTotal": 10236
+      }
+    },
+    {
+      "vehicleId": 59086,
+      "truckNumber": "757",
+      "vin": "3AKJHHDR5KSKA4890",
+      "uid": "5c215bbf-843b-422b-adea-f3634969a2a6",
+      "hasDifference": true,
+      "iftaTotals": {
+        "OH": 254,
+        "IN": 203,
+        "WV": 22,
+        "PA": 363,
+        "NJ": 160,
+        "DE": 102,
+        "MD": 46,
+        "VA": 164,
+        "UNKNOWN": 25
+      },
+      "movementTotals": {
+        "OH": 254,
+        "IN": 203,
+        "WV": 22,
+        "PA": 363,
+        "NJ": 160,
+        "DE": 102,
+        "MD": 46,
+        "VA": 189
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 164,
+          "movementMiles": 189,
+          "difference": -25
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 25,
+          "movementMiles": 0,
+          "difference": 25
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 1339,
+        "movementTotalMiles": 1339,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 1339
+      }
+    },
+    {
+      "vehicleId": 58749,
+      "truckNumber": "5466",
+      "vin": "4V4NC9EHXNN287328",
+      "uid": "ae361b5b-ddc5-495a-8865-d3bfd3dea221",
+      "hasDifference": false,
+      "iftaTotals": {
+        "VA": 39,
+        "NC": 236,
+        "SC": 107,
+        "GA": 478,
+        "TN": 189,
+        "KY": 118,
+        "IL": 167,
+        "MO": 378,
+        "IA": 14,
+        "NE": 458,
+        "WY": 401,
+        "UT": 194,
+        "NV": 412,
+        "CA": 244
+      },
+      "movementTotals": {
+        "VA": 39,
+        "NC": 236,
+        "SC": 107,
+        "GA": 478,
+        "TN": 189,
+        "KY": 118,
+        "IL": 167,
+        "MO": 378,
+        "IA": 14,
+        "NE": 458,
+        "WY": 401,
+        "UT": 194,
+        "NV": 412,
+        "CA": 244
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 3435,
+        "movementTotalMiles": 3435,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 3435
+      }
+    },
+    {
+      "vehicleId": 58335,
+      "truckNumber": "771",
+      "vin": "3AKJHHD14LSLM3098",
+      "uid": "1b82d7e9-c2fa-407c-8666-0cddba883308",
+      "hasDifference": true,
+      "iftaTotals": {
+        "PA": 1194,
+        "NJ": 810,
+        "NY": 514,
+        "DE": 268,
+        "MD": 472,
+        "VA": 1169,
+        "NC": 614,
+        "UNKNOWN": 50,
+        "WV": 26,
+        "SC": 195,
+        "GA": 113,
+        "FL": 307
+      },
+      "movementTotals": {
+        "PA": 1194,
+        "NJ": 810,
+        "NY": 514,
+        "DE": 268,
+        "MD": 472,
+        "VA": 1219,
+        "NC": 614,
+        "WV": 26,
+        "SC": 195,
+        "GA": 113,
+        "FL": 307
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 1169,
+          "movementMiles": 1219,
+          "difference": -50
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 50,
+          "movementMiles": 0,
+          "difference": 50
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 5732,
+        "movementTotalMiles": 5732,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5732
+      }
+    },
+    {
+      "vehicleId": 58048,
+      "truckNumber": "983",
+      "vin": "3AKJHHDR6PSUD5109",
+      "uid": "3136297e-b735-4705-b94d-d7a586cea59c",
+      "hasDifference": true,
+      "iftaTotals": {
+        "PA": 29,
+        "WV": 251,
+        "VA": 917,
+        "NC": 799,
+        "SC": 175,
+        "GA": 484,
+        "FL": 295,
+        "TN": 193,
+        "KY": 93,
+        "IL": 169,
+        "MO": 385,
+        "IA": 14,
+        "NE": 391,
+        "CO": 0,
+        "WY": 411,
+        "UT": 77,
+        "ID": 283,
+        "OR": 378,
+        "WA": 163
+      },
+      "movementTotals": {
+        "PA": 29,
+        "WV": 251,
+        "VA": 917,
+        "NC": 799,
+        "SC": 175,
+        "GA": 484,
+        "FL": 295,
+        "TN": 193,
+        "KY": 93,
+        "IL": 169,
+        "MO": 385,
+        "IA": 14,
+        "NE": 391,
+        "WY": 411,
+        "UT": 77,
+        "ID": 283,
+        "OR": 378,
+        "WA": 163
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5507,
+        "movementTotalMiles": 5507,
+        "iftaJumpTotal": 212,
+        "movementJumpTotal": 142,
+        "iftaPlusJumpTotal": 5719
+      }
+    },
+    {
+      "vehicleId": 57952,
+      "truckNumber": "3565",
+      "vin": "1XKYD49X2HJ123565",
+      "uid": "d21258ed-bb5d-4ea2-8832-647792e0e8fd",
+      "hasDifference": false,
+      "iftaTotals": {
+        "FL": 1132,
+        "GA": 2790
+      },
+      "movementTotals": {
+        "FL": 1132,
+        "GA": 2790
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 3922,
+        "movementTotalMiles": 3922,
+        "iftaJumpTotal": 61,
+        "movementJumpTotal": 61,
+        "iftaPlusJumpTotal": 3983
+      }
+    },
+    {
+      "vehicleId": 57934,
+      "truckNumber": "3447",
+      "vin": "3HSDZTZR6LN319867",
+      "uid": "62667aac-75f5-465e-b52d-2945fd40eadf",
+      "hasDifference": true,
+      "iftaTotals": {
+        "GA": 3017,
+        "FL": 573,
+        "UNKNOWN": 223
+      },
+      "movementTotals": {
+        "GA": 3017,
+        "FL": 796
+      },
+      "differences": [
+        {
+          "state": "FL",
+          "iftaMiles": 573,
+          "movementMiles": 796,
+          "difference": -223
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 223,
+          "movementMiles": 0,
+          "difference": 223
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 3813,
+        "movementTotalMiles": 3813,
+        "iftaJumpTotal": 343,
+        "movementJumpTotal": 343,
+        "iftaPlusJumpTotal": 4156
+      }
+    },
+    {
+      "vehicleId": 57513,
+      "truckNumber": "701",
+      "vin": "3AKJHHDR8PSUM2065",
+      "uid": "cf6535b4-629f-4b30-8b37-8928e54e3901",
+      "hasDifference": true,
+      "iftaTotals": {
+        "NY": 247,
+        "UNKNOWN": 2,
+        "PA": 323,
+        "OH": 922,
+        "KY": 233,
+        "TN": 638,
+        "GA": 357,
+        "AL": 559,
+        "VA": 1261,
+        "MD": 192,
+        "WV": 329,
+        "NC": 376,
+        "SC": 107
+      },
+      "movementTotals": {
+        "NY": 249,
+        "PA": 323,
+        "OH": 922,
+        "KY": 233,
+        "TN": 638,
+        "GA": 357,
+        "AL": 559,
+        "VA": 1261,
+        "MD": 192,
+        "WV": 329,
+        "NC": 376,
+        "SC": 107
+      },
+      "differences": [
+        {
+          "state": "NY",
+          "iftaMiles": 247,
+          "movementMiles": 249,
+          "difference": -2
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 2,
+          "movementMiles": 0,
+          "difference": 2
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 5546,
+        "movementTotalMiles": 5546,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5546
+      }
+    },
+    {
+      "vehicleId": 57459,
+      "truckNumber": "008",
+      "vin": "3AKJHHDR0LSLH1580",
+      "uid": "2a108403-ae9e-46c4-83dc-5129356ef9ed",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IL": 568,
+        "IN": 702,
+        "OH": 702,
+        "WV": 323,
+        "VA": 133,
+        "NC": 467,
+        "WI": 287,
+        "MN": 263,
+        "ND": 350,
+        "MT": 606,
+        "ID": 193,
+        "UT": 213,
+        "WY": 406,
+        "NE": 449,
+        "IA": 311
+      },
+      "movementTotals": {
+        "IL": 568,
+        "IN": 702,
+        "OH": 702,
+        "WV": 323,
+        "VA": 133,
+        "NC": 467,
+        "WI": 287,
+        "MN": 263,
+        "ND": 350,
+        "MT": 606,
+        "ID": 193,
+        "UT": 213,
+        "WY": 406,
+        "NE": 449,
+        "IA": 311
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5973,
+        "movementTotalMiles": 5973,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 5973
+      }
+    },
+    {
+      "vehicleId": 57388,
+      "truckNumber": "102",
+      "vin": "3AKJHHDR4LSLM5603",
+      "uid": "1b193356-47f6-4516-ab2d-21210fc9dd70",
+      "hasDifference": true,
+      "iftaTotals": {
+        "VA": 2414,
+        "WV": 423,
+        "MD": 818,
+        "PA": 919,
+        "NJ": 252,
+        "UNKNOWN": 14,
+        "NY": 32,
+        "DE": 14,
+        "NC": 802,
+        "SC": 523,
+        "GA": 789,
+        "OH": 944,
+        "KY": 469,
+        "TN": 514,
+        "AL": 274
+      },
+      "movementTotals": {
+        "VA": 2414,
+        "WV": 423,
+        "MD": 818,
+        "PA": 919,
+        "NJ": 266,
+        "NY": 32,
+        "DE": 14,
+        "NC": 802,
+        "SC": 523,
+        "GA": 789,
+        "OH": 944,
+        "KY": 469,
+        "TN": 514,
+        "AL": 274
+      },
+      "differences": [
+        {
+          "state": "NJ",
+          "iftaMiles": 252,
+          "movementMiles": 266,
+          "difference": -14
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 14,
+          "movementMiles": 0,
+          "difference": 14
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 9201,
+        "movementTotalMiles": 9201,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 9201
+      }
+    },
+    {
+      "vehicleId": 57308,
+      "truckNumber": "2122",
+      "vin": "4V4NC9EH9KN901314",
+      "uid": "ec60d103-15e3-4703-b6d6-8be18549847a",
+      "hasDifference": true,
+      "iftaTotals": {
+        "SC": 583,
+        "NC": 793,
+        "VA": 773,
+        "MD": 399,
+        "DE": 71,
+        "PA": 54,
+        "NJ": 469,
+        "NY": 63,
+        "CT": 190,
+        "GA": 233,
+        "FL": 672,
+        "UNKNOWN": 3
+      },
+      "movementTotals": {
+        "SC": 583,
+        "NC": 793,
+        "VA": 773,
+        "MD": 399,
+        "DE": 71,
+        "PA": 54,
+        "NJ": 472,
+        "NY": 63,
+        "CT": 190,
+        "GA": 233,
+        "FL": 672
+      },
+      "differences": [
+        {
+          "state": "NJ",
+          "iftaMiles": 469,
+          "movementMiles": 472,
+          "difference": -3
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 3,
+          "movementMiles": 0,
+          "difference": 3
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 4303,
+        "movementTotalMiles": 4303,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 4303
+      }
+    },
+    {
+      "vehicleId": 57165,
+      "truckNumber": "315",
+      "vin": "1XKYDP9X2SJ135269",
+      "uid": "ebb20a9d-7268-4aca-89bc-fc6683218d75",
+      "hasDifference": true,
+      "iftaTotals": {
+        "VA": 1014,
+        "WV": 25,
+        "MD": 399,
+        "PA": 1875,
+        "NJ": 373,
+        "NY": 330,
+        "CT": 199,
+        "MA": 185,
+        "NH": 134,
+        "ME": 107,
+        "DE": 187,
+        "UNKNOWN": 24,
+        "NC": 511,
+        "SC": 196,
+        "GA": 503,
+        "FL": 573,
+        "TN": 510,
+        "KY": 433,
+        "OH": 895,
+        "AL": 427
+      },
+      "movementTotals": {
+        "VA": 1038,
+        "WV": 25,
+        "MD": 399,
+        "PA": 1875,
+        "NJ": 373,
+        "NY": 330,
+        "CT": 199,
+        "MA": 185,
+        "NH": 134,
+        "ME": 107,
+        "DE": 187,
+        "NC": 511,
+        "SC": 196,
+        "GA": 503,
+        "FL": 573,
+        "TN": 510,
+        "KY": 433,
+        "OH": 895,
+        "AL": 427
+      },
+      "differences": [
+        {
+          "state": "VA",
+          "iftaMiles": 1014,
+          "movementMiles": 1038,
+          "difference": -24
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 24,
+          "movementMiles": 0,
+          "difference": 24
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 8900,
+        "movementTotalMiles": 8900,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 8900
+      }
+    },
+    {
+      "vehicleId": 57111,
+      "truckNumber": "121",
+      "vin": "3AKJHHDROMSMF3276",
+      "uid": "64bac363-917c-4b1f-9634-14b792e854ec",
+      "hasDifference": true,
+      "iftaTotals": {
+        "TN": 461,
+        "KY": 231,
+        "OH": 426,
+        "WV": 237,
+        "VA": 1044,
+        "NC": 518,
+        "SC": 609,
+        "GA": 377,
+        "FL": 79,
+        "DC": 1,
+        "MD": 227,
+        "DE": 36,
+        "NJ": 210,
+        "PA": 449,
+        "AL": 210,
+        "MS": 159,
+        "LA": 183,
+        "TX": 1625,
+        "UNKNOWN": 7,
+        "NM": 323,
+        "AZ": 801,
+        "CA": 611,
+        "AR": 265,
+        "NY": 278
+      },
+      "movementTotals": {
+        "TN": 461,
+        "KY": 231,
+        "OH": 426,
+        "WV": 237,
+        "VA": 1044,
+        "NC": 518,
+        "SC": 609,
+        "GA": 377,
+        "FL": 79,
+        "DC": 1,
+        "MD": 227,
+        "DE": 36,
+        "NJ": 210,
+        "PA": 449,
+        "AL": 210,
+        "MS": 159,
+        "LA": 183,
+        "TX": 1632,
+        "NM": 323,
+        "AZ": 801,
+        "CA": 611,
+        "AR": 265,
+        "NY": 278
+      },
+      "differences": [
+        {
+          "state": "TX",
+          "iftaMiles": 1625,
+          "movementMiles": 1632,
+          "difference": -7
+        },
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 7,
+          "movementMiles": 0,
+          "difference": 7
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 9367,
+        "movementTotalMiles": 9367,
+        "iftaJumpTotal": 148,
+        "movementJumpTotal": 148,
+        "iftaPlusJumpTotal": 9515
+      }
+    },
+    {
+      "vehicleId": 56884,
+      "truckNumber": "1860",
+      "vin": "1FUJGLDR1HLHX1860",
+      "uid": "22b4c01a-a76f-40dd-ac7f-771415959ebc",
+      "hasDifference": false,
+      "iftaTotals": {
+        "MO": 285,
+        "IA": 372,
+        "IL": 648,
+        "IN": 522,
+        "OH": 13,
+        "KY": 198,
+        "TN": 125,
+        "NC": 943,
+        "VA": 598,
+        "MD": 268,
+        "PA": 112,
+        "SC": 451,
+        "GA": 231,
+        "FL": 763,
+        "DE": 16,
+        "NJ": 85
+      },
+      "movementTotals": {
+        "MO": 285,
+        "IA": 372,
+        "IL": 648,
+        "IN": 522,
+        "OH": 13,
+        "KY": 198,
+        "TN": 125,
+        "NC": 943,
+        "VA": 598,
+        "MD": 268,
+        "PA": 112,
+        "SC": 451,
+        "GA": 231,
+        "FL": 763,
+        "DE": 16,
+        "NJ": 85
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 5630,
+        "movementTotalMiles": 5630,
+        "iftaJumpTotal": 181,
+        "movementJumpTotal": 181,
+        "iftaPlusJumpTotal": 5811
+      }
+    },
+    {
+      "vehicleId": 56760,
+      "truckNumber": "012",
+      "vin": "3AKJHHDV3LSLS2780",
+      "uid": "8dc23bdc-df84-44d4-a152-4abddacdeb32",
+      "hasDifference": false,
+      "iftaTotals": {
+        "IL": 565,
+        "WI": 2,
+        "MO": 77,
+        "TN": 15
+      },
+      "movementTotals": {
+        "IL": 565,
+        "WI": 2,
+        "MO": 77,
+        "TN": 15
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 659,
+        "movementTotalMiles": 659,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 659
+      }
+    },
+    {
+      "vehicleId": 56621,
+      "truckNumber": "27",
+      "vin": "4V4NC9EH8NN315384",
+      "uid": "39022765-41da-4cab-a9a3-115cbf44f1f6",
+      "hasDifference": true,
+      "iftaTotals": {
+        "SC": 816,
+        "NC": 812,
+        "VA": 1146,
+        "WV": 52,
+        "MD": 372,
+        "PA": 1457,
+        "NY": 369,
+        "NJ": 366,
+        "DE": 157,
+        "GA": 773,
+        "FL": 513,
+        "UNKNOWN": 30,
+        "OH": 408,
+        "MI": 117
+      },
+      "movementTotals": {
+        "SC": 816,
+        "NC": 812,
+        "VA": 1164,
+        "WV": 52,
+        "MD": 384,
+        "PA": 1457,
+        "NY": 369,
+        "NJ": 366,
+        "DE": 157,
+        "GA": 773,
+        "FL": 513,
+        "OH": 408,
+        "MI": 117
+      },
+      "differences": [
+        {
+          "state": "UNKNOWN",
+          "iftaMiles": 30,
+          "movementMiles": 0,
+          "difference": 30
+        },
+        {
+          "state": "VA",
+          "iftaMiles": 1146,
+          "movementMiles": 1164,
+          "difference": -18
+        },
+        {
+          "state": "MD",
+          "iftaMiles": 372,
+          "movementMiles": 384,
+          "difference": -12
+        }
+      ],
+      "summary": {
+        "iftaTotalMiles": 7388,
+        "movementTotalMiles": 7388,
+        "iftaJumpTotal": 69,
+        "movementJumpTotal": 69,
+        "iftaPlusJumpTotal": 7457
+      }
+    },
+    {
+      "vehicleId": 56501,
+      "truckNumber": "2614",
+      "vin": "3AKJHHDR4LSLK2614",
+      "uid": "11c95bfb-9439-450e-ba1f-d0e610e431e9",
+      "hasDifference": false,
+      "iftaTotals": {
+        "MO": 210,
+        "IL": 156,
+        "IN": 423,
+        "OH": 276,
+        "PA": 1112,
+        "NJ": 694,
+        "NY": 194,
+        "CT": 353,
+        "MA": 206,
+        "NH": 29,
+        "MD": 564,
+        "VA": 1151,
+        "NC": 251,
+        "SC": 73,
+        "GA": 76,
+        "AL": 740,
+        "MS": 427,
+        "LA": 290,
+        "TN": 349,
+        "WV": 266,
+        "DE": 77,
+        "KY": 348
+      },
+      "movementTotals": {
+        "MO": 210,
+        "IL": 156,
+        "IN": 423,
+        "OH": 276,
+        "PA": 1112,
+        "NJ": 694,
+        "NY": 194,
+        "CT": 353,
+        "MA": 206,
+        "NH": 29,
+        "MD": 564,
+        "VA": 1151,
+        "NC": 251,
+        "SC": 73,
+        "GA": 76,
+        "AL": 740,
+        "MS": 427,
+        "LA": 290,
+        "TN": 349,
+        "WV": 266,
+        "DE": 77,
+        "KY": 348
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 8265,
+        "movementTotalMiles": 8265,
+        "iftaJumpTotal": 441,
+        "movementJumpTotal": 441,
+        "iftaPlusJumpTotal": 8706
+      }
+    },
+    {
+      "vehicleId": 56498,
+      "truckNumber": "707",
+      "vin": "4V4NC9EH5GN936391",
+      "uid": "370c535a-f72a-4f86-a3b5-35e03a03c760",
+      "hasDifference": false,
+      "iftaTotals": {
+        "MS": 977,
+        "AL": 389,
+        "TN": 84,
+        "AR": 1144,
+        "TX": 743,
+        "MO": 1437,
+        "IA": 847,
+        "MN": 245,
+        "LA": 216,
+        "IL": 683,
+        "IN": 496,
+        "MI": 178,
+        "OH": 130,
+        "NE": 910,
+        "WY": 819,
+        "UT": 165,
+        "WI": 370,
+        "OK": 450
+      },
+      "movementTotals": {
+        "MS": 977,
+        "AL": 389,
+        "TN": 84,
+        "AR": 1144,
+        "TX": 743,
+        "MO": 1437,
+        "IA": 847,
+        "MN": 245,
+        "LA": 216,
+        "IL": 683,
+        "IN": 496,
+        "MI": 178,
+        "OH": 130,
+        "NE": 910,
+        "WY": 819,
+        "UT": 165,
+        "WI": 370,
+        "OK": 450
+      },
+      "differences": [],
+      "summary": {
+        "iftaTotalMiles": 10283,
+        "movementTotalMiles": 10283,
+        "iftaJumpTotal": 0,
+        "movementJumpTotal": 0,
+        "iftaPlusJumpTotal": 10283
+      }
+    }
+  ],
+  "failures": []
+}

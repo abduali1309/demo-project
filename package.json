@@ -1,0 +1,26 @@
+{
+  "name": "office",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/app.ts",
+    "build": "tsc",
+    "test": "npx jest --watchAll"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.6.0",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.6.0",
+    "axios": "^1.13.6",
+    "dayjs": "^1.11.20",
+    "jest": "^30.3.0",
+    "nodemon": "^3.1.14",
+    "ts-jest": "^29.4.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

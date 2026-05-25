@@ -1,0 +1,121 @@
+{
+  "dataHash": "23beeeac2d822faca411f44a9fb68e69",
+  "events": [
+    {
+      "startTimeSeconds": 0,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 12229,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 13835,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 20709,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 22189,
+      "eventType": "DutyOff",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 22675,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 23119,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 40024,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    }
+  ],
+  "form": {
+    "companyName": "Reliable Trucking Partner 2 Inc",
+    "companyAddress": "799 North Court St Suite-7 Medina, OH 44256",
+    "homeTerminalAddress": "",
+    "fromAddress": "",
+    "toAddress": "",
+    "distance": null,
+    "usdot": "3395902",
+    "notes": "",
+    "coDriverId": null,
+    "vehicles": [
+      {
+        "id": 43905,
+        "vehicleId": "7777",
+        "odometers": [
+          {
+            "start": 0,
+            "end": 0
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "shippingDocuments": []
+  },
+  "maxTimeOffset": -1,
+  "reassignEvents": [],
+  "suggestionRequestId": "281aac7c-7ee9-4e43-b665-e47fcb553537"
+}

@@ -1,0 +1,403 @@
+{
+  "checkedRange": {
+    "start": "2026-04-11",
+    "end": "2026-04-13"
+  },
+  "totalDriversChecked": 159,
+  "problematicDrivers": 16,
+  "results": [
+    {
+      "driver": {
+        "id": 427,
+        "uid": "4e582dea-b36a-4a13-902b-7628e0d6ec9d",
+        "first_name": "Mohamed",
+        "second_name": "Aakrich",
+        "username": "ma1994",
+        "publicId": "950308077",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 4
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 8
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 612,
+        "uid": "1f8d23ab-eb1a-42d4-8ce0-46d6b3dd99b3",
+        "first_name": "Abdukosim",
+        "second_name": "Beknazarov",
+        "username": "abb2026",
+        "publicId": "950308152",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 8
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 4
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 2
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 304,
+        "uid": "3c96a3cb-2f04-4b75-95ae-2d8a759a379a",
+        "first_name": "Mohamed Abdiaziz",
+        "second_name": "Duale",
+        "username": "mad1991",
+        "publicId": "950308030",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 655,
+        "uid": "66450265-2fa9-4134-a390-03c59a42c8ce",
+        "first_name": "Isfandier",
+        "second_name": "Dusmukhamedov",
+        "username": "di1987",
+        "publicId": "950308164",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 2
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 594,
+        "uid": "588673d4-521d-4eb2-ba7a-2441b6129c54",
+        "first_name": "Azhdar Uzeyir",
+        "second_name": "Eminov",
+        "username": "aue1972",
+        "publicId": "950308144",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 306,
+        "uid": "0e91b459-e0f1-496f-a6b4-b5987f1e803d",
+        "first_name": "Damian",
+        "second_name": "Hicks Antonio",
+        "username": "dha2026",
+        "publicId": "950308032",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 646,
+        "uid": "c8df0ecb-efa7-419a-9b81-62a6b459279b",
+        "first_name": "Guito",
+        "second_name": "Juste",
+        "username": "gj1971",
+        "publicId": "950308160",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 7
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 7
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 651,
+        "uid": "ca852853-3b4c-4374-9829-7419425ea1b4",
+        "first_name": "Husniddin",
+        "second_name": "Karimov",
+        "username": "kh1985",
+        "publicId": "950308163",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 10
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 5
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 604,
+        "uid": "36c0f385-b2c7-4f74-8503-c1925a72218e",
+        "first_name": "Mohamed Muhumed",
+        "second_name": "Muse",
+        "username": "mmm1985",
+        "publicId": "950308149",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 5
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 7
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 642,
+        "uid": "0f788d8f-46a6-4f53-95a7-7bfcf5a8f22d",
+        "first_name": "Aissam",
+        "second_name": "Naimi",
+        "username": "an2026",
+        "publicId": "950308158",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 596,
+        "uid": "b5da30ac-e704-4c15-844c-2792f44e3f38",
+        "first_name": "Feysal Ahmed",
+        "second_name": "Osman",
+        "username": "ofa1996",
+        "publicId": "950308146",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 11
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 8
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 587,
+        "uid": "19ef1539-ac6e-40c0-ae5d-a68ecdeee746",
+        "first_name": "Yousef Mohammad",
+        "second_name": "Ramadan",
+        "username": "ymm1988",
+        "publicId": "950308140",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 4
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 6
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 650,
+        "uid": "bcf254c2-448b-4982-904b-a4d9ba6461b3",
+        "first_name": "Makhmudjon",
+        "second_name": "Rasulov",
+        "username": "mmn2026",
+        "publicId": "950308162",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 7
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 2
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 405,
+        "uid": "9dbc83a7-75c1-40b1-a37c-b74e577104d5",
+        "first_name": "Sokhib",
+        "second_name": "Rasulov",
+        "username": "sr1974",
+        "publicId": "950308069",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 3
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 345,
+        "uid": "5285953f-9d40-48be-95a0-af36591f8e66",
+        "first_name": "Saint Juste",
+        "second_name": "Satchenka",
+        "username": "sjs1997",
+        "publicId": "950308045",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-11",
+          "probe": "2026-04-11T11:00:00.000Z",
+          "originalDrivingLogs": 4
+        },
+        {
+          "day": "2026-04-12",
+          "probe": "2026-04-12T11:00:00.000Z",
+          "originalDrivingLogs": 4
+        },
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 2
+        }
+      ]
+    },
+    {
+      "driver": {
+        "id": 324,
+        "uid": "4446170c-c63f-443f-87b5-95679d5ec1b0",
+        "first_name": "St Jour",
+        "second_name": "Stanley",
+        "username": "sj1984",
+        "publicId": "950308035",
+        "companyId": 18
+      },
+      "missingDays": [
+        {
+          "day": "2026-04-13",
+          "probe": "2026-04-13T11:00:00.000Z",
+          "originalDrivingLogs": 1
+        }
+      ]
+    }
+  ]
+}

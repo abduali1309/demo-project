@@ -1,0 +1,27 @@
+ELD File Header Segment:
+Secondname,Firstname,Username,LicenseState,LicenseNumber,Checksum(hex)
+,,,96 <- i dunno
+TruckNumber,VINNumber,trailer,Checksum(hex)
+USDOT,CompanyName,60Hours(7)/70Hours(8),000000,TimeZone,Checksum(hex)
+ShippingDocument,0,Checksum(hex)
+Date,Time,Latitude,Longtitude,Start/EndOdometer,Start/EndOdometer,Checksum(hex)
+ELDRegistrationId,ELDIdentifier,UUID,FileComment,Checksum(hex)
+User List:
+NumberOfDriver(s),D,Secondname,Firstname,Checksum(hex)
+CMV List:
+NumberOfVehicle(s),TruckNumber,VINNumber,Checksum(hex)
+ELD Event List:
+SequenceNumber,RecordStatus,OriginCode,EventCode,EventType,Date,Time,AccumulatedVehicleMiles,AccumulatedEngineHours,Latitude,Longtitude,delta_distance,vehicleOrderNum,1,mIndacator,dIndacator,eventLine,Checksum(hex)
+ELD Event Annotations or Comments:
+SequenceNumber,Username,Note,Date,Time,Address,Checksum(hex)
+Driver's Certification/Recertification Actions:
+SequenceNumber,EventCode,Date,Time,Location(Date),vehicleOrderNum,Checksum(hex)
+Malfunctions and Data Diagnostic Events:
+SequenceNumber,EventCode,MalfunctionDiagnosticCode,Date,Time,Odometer,EngineHours,vehicleOrderNum,Checksum(hex)
+ELD Login/Logout Report:
+SequenceNumber,EventCode,Username,Date,Time,Odometer,EngineHours,Checksum(hex)
+CMV Engine Power-Up and Shut Down Activity:
+SequenceNumber,EventCode,Date,Time,TotalVehicleMiles,TotalEngineHours,Latitude,Longtitude,TruckNumber,VINNumber,Trailer,ShippingDocument,Checksum(hex)
+Unidentified Driver Profile Records:
+End of File:
+EOFChecksum(hex)
