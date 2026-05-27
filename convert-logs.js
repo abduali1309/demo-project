@@ -17,8 +17,8 @@ const DRIVER_UID     = 'e7c762fd-13e8-4c92-90c8-ef38866cb053';
 const COMPANY_UID    = '42b94f1a-a395-4f7f-8913-a3c88e343292';
 const AUTH_TOKEN     = 'OK4ULC5UgEpyWKtBubMPvE61IvZ4tFzNnBAmL7FbgLPLDVhFzrc49BBS1GJvuvXQ';
 const BASE_URL       = 'https://ftest.tteld.com/api/dashboards';
-const START_DATE     = '2026-03-03'; // YYYY-MM-DD
-const END_DATE       = '2026-03-05';   // YYYY-MM-DD
+const START_DATE     = '2026-04-17'; // YYYY-MM-DD
+const END_DATE       = '2026-04-18';   // YYYY-MM-DD
 const DAY_ANCHOR_HOUR = 5; // change to 0 for midnight UTC
 
 

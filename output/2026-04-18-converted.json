@@ -1,0 +1,110 @@
+{
+  "dataHash": "720fc127df20c8478bbbdf209c8a4b1a",
+  "events": [
+    {
+      "startTimeSeconds": 0,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 10800,
+      "eventType": "DutyOn",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 21600,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 32400,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 57600,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 61200,
+      "eventType": "DutyDriving",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    },
+    {
+      "startTimeSeconds": 72000,
+      "eventType": "DutySleeper",
+      "uniqueId": null,
+      "vehicleId": 43905,
+      "treatedEventType": null,
+      "odometer": null,
+      "engineHours": null,
+      "textLocation": null,
+      "notes": "test"
+    }
+  ],
+  "form": {
+    "companyName": "Reliable Trucking Partner 2 Inc",
+    "companyAddress": "799 North Court St Suite-7 Medina, OH 44256",
+    "homeTerminalAddress": "",
+    "fromAddress": "",
+    "toAddress": "",
+    "distance": null,
+    "usdot": "3395902",
+    "notes": "",
+    "coDriverId": null,
+    "vehicles": [
+      {
+        "id": 43905,
+        "vehicleId": "7777",
+        "odometers": [
+          {
+            "start": 0,
+            "end": 0
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "shippingDocuments": []
+  },
+  "maxTimeOffset": -1,
+  "reassignEvents": [],
+  "suggestionRequestId": "f2b0f82c-6f20-4394-8ca7-5a9040f957b7"
+}
