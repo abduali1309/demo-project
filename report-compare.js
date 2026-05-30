@@ -24,7 +24,7 @@ const REPORT_PATH = '/test/report-calcuate/';
 const REPORT_KEY = 'I4LXkwGLXOkNOUODcyBu07FxRGMG2Jmk';
 const AUTH_TOKEN = 'ckf7mYMYJEmWGo2QaSFxb87fwQ4w3PoLanCxuhGwqayAwXOg78HSBwACe38xvX91';
 
-const OUTPUT_FILE = path.resolve(__dirname, `output/report-differences-${COMPANY_ID}-${PLATFORM}-2.json`);
+const OUTPUT_FILE = path.resolve(__dirname, `output/report-differences-${COMPANY_ID}-${PLATFORM}.json`);
 
 const STATE_NAME_TO_ABBR = {
   ALABAMA: 'AL',

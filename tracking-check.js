@@ -190,7 +190,7 @@ function aggregateCompanyTotals(results) {
   const companyTotals = {
     vehiclesProcessed: 0,
     skipped: 0,
-    errors: 0,
+    errors: 0, /// count of vehicles with 'error' status
     perSection: {
       ifta: zero(),
       iftaByLog: zero(),
