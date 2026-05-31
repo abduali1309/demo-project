@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-05-30T18:26:10.034Z",
+  "range": {
+    "startDate": "2026-05-20",
+    "endDate": "2026-05-30"
+  },
+  "skippedDrivers": [],
+  "errors": [
+    {
+      "driverId": 20820,
+      "driverUid": "a064d539-cada-4baa-b375-7cff2012f8fa",
+      "errorType": "daily_logs_fetch_error",
+      "message": "fetch failed"
+    },
+    {
+      "driverId": 20676,
+      "driverUid": "620c63d8-5acb-4f9a-9543-e1c256db81e3",
+      "errorType": "daily_logs_fetch_error",
+      "message": "fetch failed"
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152322289
+      ],
+      "logId": 152322289,
+      "start_date": "2026-05-20T04:14:18.705Z",
+      "end_date": "2026-05-20T14:14:47.705Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:23:37.379Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:21:55.379Z | end=2026-05-06T23:23:37.379Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:19:09.835Z | end=2026-05-07T08:07:37.835Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152379931
+      ],
+      "logId": 152379931,
+      "start_date": "2026-05-20T16:49:25.705Z",
+      "end_date": "2026-05-20T16:55:55.705Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:18:23.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:16:41.091Z | end=2026-05-06T23:18:23.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:12:14.547Z | end=2026-05-07T08:00:42.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152538689
+      ],
+      "logId": 152538689,
+      "start_date": "2026-05-21T01:27:34.705Z",
+      "end_date": "2026-05-21T11:30:30.705Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:19:03.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:17:21.091Z | end=2026-05-06T23:19:03.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:12:14.547Z | end=2026-05-07T08:00:42.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152750764
+      ],
+      "logId": 152750764,
+      "start_date": "2026-05-21T23:08:42.705Z",
+      "end_date": "2026-05-22T09:09:59.705Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:19:10.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:17:28.091Z | end=2026-05-06T23:19:10.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:13:52.547Z | end=2026-05-07T08:02:20.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152916979
+      ],
+      "logId": 152916979,
+      "start_date": "2026-05-22T10:22:53.058Z",
+      "end_date": "2026-05-22T10:38:46.058Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:18:28.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:16:46.091Z | end=2026-05-06T23:18:28.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:30.547Z | end=2026-05-07T08:03:58.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152800101
+      ],
+      "logId": 152800101,
+      "start_date": "2026-05-22T13:21:37.705Z",
+      "end_date": "2026-05-22T13:28:10.705Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:18:39.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:16:57.091Z | end=2026-05-06T23:18:39.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:27.547Z | end=2026-05-07T08:03:55.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152915399
+      ],
+      "logId": 152915399,
+      "start_date": "2026-05-22T20:40:13.058Z",
+      "end_date": "2026-05-23T06:41:20.058Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:18:51.379Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:17:09.379Z | end=2026-05-06T23:18:51.379Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:16.835Z | end=2026-05-07T08:03:44.835Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        152992025
+      ],
+      "logId": 152992025,
+      "start_date": "2026-05-23T11:19:54.058Z",
+      "end_date": "2026-05-23T11:50:22.058Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:10:40.379Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:08:58.379Z | end=2026-05-06T23:10:40.379Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:04:39.835Z | end=2026-05-07T07:53:07.835Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        153407128
+      ],
+      "logId": 153407128,
+      "start_date": "2026-05-25T05:35:52.906Z",
+      "end_date": "2026-05-25T05:41:57.906Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:24:40.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:22:58.091Z | end=2026-05-06T23:24:40.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:22:48.547Z | end=2026-05-07T08:11:16.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154145392
+      ],
+      "logId": 154145392,
+      "start_date": "2026-05-25T11:41:31.000Z",
+      "end_date": "2026-05-25T12:11:52.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:20:41.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:18:59.091Z | end=2026-05-06T23:20:41.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:16:01.547Z | end=2026-05-07T08:04:29.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154145973
+      ],
+      "logId": 154145973,
+      "start_date": "2026-05-25T16:43:28.000Z",
+      "end_date": "2026-05-26T02:45:40.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:16:49.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:15:07.091Z | end=2026-05-06T23:16:49.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:14:06.547Z | end=2026-05-07T08:02:34.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        153580262
+      ],
+      "logId": 153580262,
+      "start_date": "2026-05-26T04:12:02.906Z",
+      "end_date": "2026-05-26T04:18:25.906Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:27:17.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:25:35.091Z | end=2026-05-06T23:27:17.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:23:05.547Z | end=2026-05-07T08:11:33.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154146000
+      ],
+      "logId": 154146000,
+      "start_date": "2026-05-26T09:02:56.000Z",
+      "end_date": "2026-05-26T09:36:02.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:20:27.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:18:45.091Z | end=2026-05-06T23:20:27.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:44.547Z | end=2026-05-07T08:04:12.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        153963331
+      ],
+      "logId": 153963331,
+      "start_date": "2026-05-26T15:27:39.000Z",
+      "end_date": "2026-05-27T01:27:45.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:14:27.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:12:45.091Z | end=2026-05-06T23:14:27.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:11:14.547Z | end=2026-05-07T07:59:42.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        153903002
+      ],
+      "logId": 153903002,
+      "start_date": "2026-05-27T01:57:35.000Z",
+      "end_date": "2026-05-27T02:04:33.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:13:37.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:11:55.091Z | end=2026-05-06T23:13:37.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:11:02.547Z | end=2026-05-07T07:59:30.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154145935
+      ],
+      "logId": 154145935,
+      "start_date": "2026-05-27T13:38:20.000Z",
+      "end_date": "2026-05-27T23:39:51.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:20:15.379Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:18:33.379Z | end=2026-05-06T23:20:15.379Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:17:53.835Z | end=2026-05-07T08:06:21.835Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154281753
+      ],
+      "logId": 154281753,
+      "start_date": "2026-05-28T06:51:13.000Z",
+      "end_date": "2026-05-28T07:21:18.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:17:31.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:15:49.091Z | end=2026-05-06T23:17:31.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:13:19.547Z | end=2026-05-07T08:01:47.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154332950
+      ],
+      "logId": 154332950,
+      "start_date": "2026-05-28T10:17:52.000Z",
+      "end_date": "2026-05-28T10:19:07.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:19:10.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:17:28.091Z | end=2026-05-06T23:19:10.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:14:47.547Z | end=2026-05-07T08:03:15.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154897904
+      ],
+      "logId": 154897904,
+      "start_date": "2026-05-30T06:29:41.000Z",
+      "end_date": "2026-05-30T16:30:04.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:11:15.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:09:33.091Z | end=2026-05-06T23:11:15.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:09:18.547Z | end=2026-05-07T07:57:46.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154935784
+      ],
+      "logId": 154935784,
+      "start_date": "2026-05-30T21:48:06.000Z",
+      "end_date": "2026-05-30T22:22:54.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:20:42.379Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:19:00.379Z | end=2026-05-06T23:20:42.379Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:36.835Z | end=2026-05-07T08:04:04.835Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    },
+    {
+      "driverId": 17096,
+      "driverUid": "ef83859e-dd67-4dab-b08f-ee87f2a87e5f",
+      "logIds": [
+        154996776
+      ],
+      "logId": 154996776,
+      "start_date": "2026-05-31T02:54:27.000Z",
+      "end_date": "2026-05-31T03:02:07.000Z",
+      "isCycle": true,
+      "errorType": "break_violation",
+      "message": "[logs] break violation detected\nshiftOpenedAt=2026-05-06T23:20:18.091Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T13:18:36.091Z | end=2026-05-06T23:20:18.091Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T02:15:57.547Z | end=2026-05-07T08:04:25.547Z\ndrivingSinceLastValidBreakHours=8.05\n\n[originalLogs] break violation detected\nshiftOpenedAt=2026-05-07T03:36:05.586Z\nshiftOpenSource=id=147359200 | event_type=1 | event_code=2 | status=sleep | start=2026-05-06T17:34:23.586Z | end=2026-05-07T03:36:05.586Z\nviolatingLog=id=147669076 | event_type=1 | event_code=3 | status=driving | start=2026-05-07T06:53:49.586Z | end=2026-05-07T12:42:17.586Z\ndrivingSinceLastValidBreakHours=8.05",
+      "status": null
+    }
+  ]
+}

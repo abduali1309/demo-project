@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-05-30T18:00:58.238Z",
+  "range": {
+    "startDate": "2026-05-20",
+    "endDate": "2026-05-30"
+  },
+  "skippedDrivers": [],
+  "errors": [
+    {
+      "driverId": 23557,
+      "driverUid": "3d83815b-e9c7-41ac-884c-c4a554556b00",
+      "errorType": "daily_logs_fetch_error",
+      "message": "HTTP 400"
+    }
+  ]
+}
