@@ -205,8 +205,8 @@ const DRIVER_API_AUTH =
 	"cZVsRmQvV57mnwmxvTD6mmqAIudg6INOmUVcY4sMFvtjRzZrk0ypWHLf5c6CCaJf"; // addmin
 const LOG_API_AUTH =
 	"MEwUgADZf62Bdc6EboJQPYAgXkkJEp3nTnvll0i4LDgThP2dDDpDjqQ6ew1KlejT"; // dash
-const DRIVER_API_COMPANY_ID = 107;
-const LOG_API_COMPANY_UID = "d55ea3d8-19ac-46f7-867a-5d5ed63ba5da";
+const DRIVER_API_COMPANY_ID = 182;
+const LOG_API_COMPANY_UID = "ecb83623-4179-4799-9341-560ed205bd25";
 const AUTO_SHIFT_COMPANY_UID = LOG_API_COMPANY_UID;
 
 if (!DRIVER_API_AUTH || !LOG_API_AUTH) {
@@ -221,8 +221,8 @@ if (!AUTO_SHIFT_COMPANY_UID) {
 	throw new Error("Missing AUTO_SHIFT_COMPANY_UID environment variable.");
 }
 
-const START_DATE = "2026-05-12";
-const END_DATE = "2026-05-31";
+const START_DATE = "2026-05-13";
+const END_DATE = "2026-06-01";
 const OUTPUT_FILE = `output/auto-shift-errors-${DRIVER_API_COMPANY_ID}.json`;
 
 const SHIFT_OPEN_THRESHOLD_MS = 10 * 60 * 60 * 1000; // 10 hours

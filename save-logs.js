@@ -4,7 +4,7 @@ const fs = require('fs/promises');
 const path = require('path');
 
 // Node 18+ has fetch built in
-const BASE_URL = 'https://j7.tteld.com/api/dashboards/get-daily-logs/';
+const BASE_URL = 'https://front-api.tteld.com/api/dashboards/get-daily-logs/';
 
 
 
@@ -16,16 +16,16 @@ const BASE_URL = 'https://j7.tteld.com/api/dashboards/get-daily-logs/';
 // Javier Escuella - 37674434-4f40-4a62-90ad-9cb552902625
 
 
-const MAIN_DRIVER_UID = '28c8b4fd-5811-4647-9904-cdc94e482138';
-const CODRIVER_UID = '658251ce-f180-45f8-aaac-ce2f6b24da3c';
+const MAIN_DRIVER_UID = 'e7c762fd-13e8-4c92-90c8-ef38866cb053';
+const CODRIVER_UID = null;
 
-const AUTH_TOKEN = 'oyjtBMO7GBDGPiviRbxoFduCCTlDDeFYjbCBdEDutDKHaIN9Ns9EIWLcFQCPljeH';
-const COMPANY_UID = '399519c7-902e-40e0-9be8-e6749cf76f76';
+const AUTH_TOKEN = 'HTGdAqCxk3VVkKiNJbasTnvzDZ9hMlCucQMsUtKYPjKscAOQ4oRQXQ8sPjXEFeXH';
+const COMPANY_UID = '42b94f1a-a395-4f7f-8913-a3c88e343292';
 
-const START_DATE = '2026-04-10'; // YYYY-MM-DD
-const END_DATE = '2026-04-21';   // YYYY-MM-DD
+const START_DATE = '2026-06-01'; // YYYY-MM-DD
+const END_DATE = '2026-06-02';   // YYYY-MM-DD
 
-const OUTPUT_DIR = path.join(__dirname, 'mock-logs/dutchandhosea/');
+const OUTPUT_DIR = path.join(__dirname, 'mock-logs/ssb/');
 
 const HEADERS = {
   Authorization: AUTH_TOKEN,
@@ -156,7 +156,7 @@ async function main() {
 
   const [mainDriverLogs, codriverLogs] = await Promise.all([
     collectAllLogs(MAIN_DRIVER_UID, START_DATE, END_DATE),
-    collectAllLogs(CODRIVER_UID, START_DATE, END_DATE),
+    // collectAllLogs(CODRIVER_UID, START_DATE, END_DATE),
   ]);
 
   const mainSaved = await saveAsJsonAndJsonl('driverlogs', mainDriverLogs, {
@@ -166,18 +166,18 @@ async function main() {
     role: 'main-driver',
   });
 
-  const coSaved = await saveAsJsonAndJsonl('codriverlogs', codriverLogs, {
-    driverUid: CODRIVER_UID,
-    startDate: START_DATE,
-    endDate: END_DATE,
-    role: 'co-driver',
-  });
+  // const coSaved = await saveAsJsonAndJsonl('codriverlogs', codriverLogs, {
+  //   driverUid: CODRIVER_UID,
+  //   startDate: START_DATE,
+  //   endDate: END_DATE,
+  //   role: 'co-driver',
+  // });
 
   console.log('Saved successfully:');
   console.log('Main driver JSON :', mainSaved.jsonPath);
   console.log('Main driver JSONL:', mainSaved.jsonlPath);
-  console.log('Co-driver JSON   :', coSaved.jsonPath);
-  console.log('Co-driver JSONL  :', coSaved.jsonlPath);
+  // console.log('Co-driver JSON   :', coSaved.jsonPath);
+  // console.log('Co-driver JSONL  :', coSaved.jsonlPath);
 }
 
 main().catch((err) => {

@@ -31,29 +31,37 @@ const MAX_RETRIES = 6;
 const RUN_ID = `${Date.now().toString(36)}-${crypto.randomBytes(4).toString("hex")}`;
 
 const CASES = [
-  { id: 1,  focus: "username",         scenario: "both active, older activatedAt wins" },
-  { id: 2,  focus: "username",         scenario: "one inactive, inactive record wins" },
-  { id: 3,  focus: "username",         scenario: "both inactive, older createdAt wins" },
-  { id: 4,  focus: "username",         scenario: "missing activatedAt, fall back to createdAt" },
-  { id: 5,  focus: "username",         scenario: "equal timestamps, stable fallback" },
+//   { id: 1,  focus: "username",         scenario: "both active, older activatedAt wins" },
+//   { id: 2,  focus: "username",         scenario: "one inactive, inactive record wins" },
+//   { id: 3,  focus: "username",         scenario: "both inactive, older createdAt wins" },
+//   { id: 4,  focus: "username",         scenario: "missing activatedAt, fall back to createdAt" },
+//   { id: 5,  focus: "username",         scenario: "equal timestamps, stable fallback" },
 
-  { id: 6,  focus: "email",            scenario: "both active, older activatedAt wins" },
-  { id: 7,  focus: "email",            scenario: "one inactive, inactive record wins" },
-  { id: 8,  focus: "email",            scenario: "both inactive, older createdAt wins" },
-  { id: 9,  focus: "email",            scenario: "missing activatedAt, fall back to createdAt" },
-  { id: 10, focus: "email",            scenario: "equal timestamps, stable fallback" },
+//   { id: 6,  focus: "email",            scenario: "both active, older activatedAt wins" },
+//   { id: 7,  focus: "email",            scenario: "one inactive, inactive record wins" },
+//   { id: 8,  focus: "email",            scenario: "both inactive, older createdAt wins" },
+//   { id: 9,  focus: "email",            scenario: "missing activatedAt, fall back to createdAt" },
+//   { id: 10, focus: "email",            scenario: "equal timestamps, stable fallback" },
 
-  { id: 11, focus: "license",          scenario: "both active, older activatedAt wins" },
-  { id: 12, focus: "license",          scenario: "one inactive, inactive record wins" },
-  { id: 13, focus: "license",          scenario: "both inactive, older createdAt wins" },
-  { id: 14, focus: "license",          scenario: "missing activatedAt, fall back to createdAt" },
-  { id: 15, focus: "license",          scenario: "equal timestamps, stable fallback" },
+//   { id: 11, focus: "license",          scenario: "both active, older activatedAt wins" },
+//   { id: 12, focus: "license",          scenario: "one inactive, inactive record wins" },
+//   { id: 13, focus: "license",          scenario: "both inactive, older createdAt wins" },
+//   { id: 14, focus: "license",          scenario: "missing activatedAt, fall back to createdAt" },
+//   { id: 15, focus: "license",          scenario: "equal timestamps, stable fallback" },
 
-  { id: 16, focus: "username+email",   scenario: "both active, older activatedAt wins" },
-  { id: 17, focus: "username+license", scenario: "one inactive, inactive record wins" },
-  { id: 18, focus: "email+license",    scenario: "both inactive, older createdAt wins" },
-  { id: 19, focus: "all-three",        scenario: "both active, older activatedAt wins" },
-  { id: 20, focus: "all-three",        scenario: "missing activatedAt, fall back to createdAt" },
+//   { id: 16, focus: "username+email",   scenario: "both active, older activatedAt wins" },
+//   { id: 17, focus: "username+license", scenario: "one inactive, inactive record wins" },
+//   { id: 18, focus: "email+license",    scenario: "both inactive, older createdAt wins" },
+//   { id: 19, focus: "all-three",        scenario: "both active, older activatedAt wins" },
+//   { id: 20, focus: "all-three",        scenario: "missing activatedAt, fall back to createdAt" },
+
+//   { id: 21, sourceCase: 2,  focus: "username", scenario: "repeat of case 2 with fresh values" },
+//   { id: 22, sourceCase: 7,  focus: "email",    scenario: "repeat of case 7 with fresh values" },
+//   { id: 23, sourceCase: 12, focus: "license",  scenario: "repeat of case 12 with fresh values" },
+//   { id: 24, sourceCase: 17, focus: "all-three", scenario: "repeat of case 17 with fresh values" },
+//   { id: 25, sourceCase: 17, focus: "all-three", scenario: "repeat of case 17 with fresh values" },
+//   { id: 26, sourceCase: 17, focus: "all-three", scenario: "repeat of case 17 with fresh values" },
+
 ];
 
 const NAME_PAIRS = [
